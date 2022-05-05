@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-03-26">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="basmaz" label="basmaz" />
+      <node id="bu" label="bu" />
+      <node id="birader" label="birader" />
+      <node id="blow" label="blow" />
+      <node id="military" label="military" />
+      <node id="aka" label="aka" />
+      <node id="diye" label="diye" />
+      <node id="dnemde" label="dnemde" />
+      <node id="gaz" label="gaz" />
+      <node id="gibi" label="gibi" />
+      <node id="herkes" label="herkes" />
+      <node id="kartamyor" label="kartamyor" />
+      <node id="kendi" label="kendi" />
+      <node id="kozunu" label="kozunu" />
+      <node id="lken" label="lken" />
+      <node id="oynuyor" label="oynuyor" />
+      <node id="paylam" label="paylam" />
+      <node id="sanki" label="sanki" />
+      <node id="sen" label="sen" />
+      <node id="sende" label="sende" />
+      <node id="var" label="var" />
+      <node id="yapyorsun" label="yapyorsun" />
+      <node id="conscripts" label="conscripts" />
+      <node id="ukraine" label="ukraine" />
+      <node id="du" label="du" />
+      <node id="et" label="et" />
+      <node id="prix" label="prix" />
+      <node id="ended" label="ended" />
+      <node id="eu" label="eu" />
+      <node id="russia" label="russia" />
+      <node id="fuel" label="fuel" />
+      <node id="ukrainian" label="ukrainian" />
+      <node id="germany" label="germany" />
+      <node id="liter" label="liter" />
+      <node id="gibilerin" label="gibilerin" />
+      <node id="kafas" label="kafas" />
+      <node id="kripto" label="kripto" />
+      <node id="longer" label="longer" />
+      <node id="infrastructure" label="infrastructure" />
+      <node id="national" label="national" />
+      <node id="petrol" label="petrol" />
+      <node id="prices" label="prices" />
+      <node id="pipelines" label="pipelines" />
+      <node id="putin" label="putin" />
+      <node id="qui" label="qui" />
+      <node id="reached" label="reached" />
+      <node id="reason" label="reason" />
+      <node id="nato" label="nato" />
+      <node id="respect" label="respect" />
+      <node id="country" label="country" />
+      <node id="invaded" label="invaded" />
+      <node id="like" label="like" />
+      <node id="vulnerable" label="vulnerable" />
+      <node id="sell" label="sell" />
+      <node id="senin" label="senin" />
+      <node id="service" label="service" />
+      <node id="takes" label="takes" />
+      <node id="bend" label="bend" />
+      <node id="bitch" label="bitch" />
+      <node id="curious" label="curious" />
+      <node id="im" label="im" />
+      <node id="little" label="little" />
+      <node id="russians" label="russians" />
+      <node id="still" label="still" />
+      <node id="yorumla" label="yorumla" />
+    </nodes>
+    <edges>
+      <edge source="basmaz" target="bu" id="0" weight="4" />
+      <edge source="bu" target="birader" id="1" weight="4" />
+      <edge source="bu" target="aka" id="2" weight="4" />
+      <edge source="bu" target="diye" id="3" weight="4" />
+      <edge source="bu" target="dnemde" id="4" weight="4" />
+      <edge source="bu" target="gaz" id="5" weight="4" />
+      <edge source="bu" target="gibi" id="6" weight="4" />
+      <edge source="bu" target="herkes" id="7" weight="4" />
+      <edge source="bu" target="kartamyor" id="8" weight="4" />
+      <edge source="bu" target="kendi" id="9" weight="4" />
+      <edge source="bu" target="kozunu" id="10" weight="4" />
+      <edge source="bu" target="lken" id="11" weight="4" />
+      <edge source="bu" target="oynuyor" id="12" weight="4" />
+      <edge source="bu" target="paylam" id="13" weight="4" />
+      <edge source="bu" target="sanki" id="14" weight="4" />
+      <edge source="bu" target="sen" id="15" weight="4" />
+      <edge source="bu" target="sende" id="16" weight="4" />
+      <edge source="bu" target="var" id="17" weight="4" />
+      <edge source="bu" target="yapyorsun" id="18" weight="4" />
+      <edge source="bu" target="gibilerin" id="19" weight="4" />
+      <edge source="bu" target="kafas" id="20" weight="4" />
+      <edge source="bu" target="kripto" id="21" weight="4" />
+      <edge source="bu" target="senin" id="22" weight="4" />
+      <edge source="bu" target="yorumla" id="23" weight="4" />
+      <edge source="blow" target="military" id="24" weight="4" />
+      <edge source="military" target="eu" id="25" weight="4" />
+      <edge source="military" target="gaz" id="26" weight="4" />
+      <edge source="military" target="longer" id="27" weight="4" />
+      <edge source="military" target="infrastructure" id="28" weight="4" />
+      <edge source="military" target="russia" id="29" weight="5" />
+      <edge source="military" target="pipelines" id="30" weight="4" />
+      <edge source="military" target="putin" id="31" weight="4" />
+      <edge source="military" target="sell" id="32" weight="4" />
+      <edge source="aka" target="sen" id="33" weight="4" />
+      <edge source="diye" target="sen" id="34" weight="4" />
+      <edge source="gaz" target="eu" id="35" weight="5" />
+      <edge source="gaz" target="russia" id="36" weight="7" />
+      <edge source="gaz" target="ukrainian" id="37" weight="4" />
+      <edge source="gibi" target="sen" id="38" weight="4" />
+      <edge source="paylam" target="sen" id="39" weight="4" />
+      <edge source="sanki" target="sen" id="40" weight="4" />
+      <edge source="sen" target="sende" id="41" weight="4" />
+      <edge source="sen" target="var" id="42" weight="4" />
+      <edge source="sen" target="yapyorsun" id="43" weight="4" />
+      <edge source="conscripts" target="ukraine" id="44" weight="6" />
+      <edge source="conscripts" target="ended" id="45" weight="6" />
+      <edge source="conscripts" target="national" id="46" weight="6" />
+      <edge source="conscripts" target="reason" id="47" weight="6" />
+      <edge source="conscripts" target="service" id="48" weight="6" />
+      <edge source="ukraine" target="national" id="49" weight="5" />
+      <edge source="ukraine" target="petrol" id="50" weight="9" />
+      <edge source="ukraine" target="reason" id="51" weight="7" />
+      <edge source="ukraine" target="russia" id="52" weight="11" />
+      <edge source="ukraine" target="like" id="53" weight="4" />
+      <edge source="ukraine" target="nato" id="54" weight="6" />
+      <edge source="ukraine" target="ukrainian" id="55" weight="4" />
+      <edge source="du" target="et" id="56" weight="4" />
+      <edge source="du" target="prix" id="57" weight="4" />
+      <edge source="du" target="qui" id="58" weight="4" />
+      <edge source="eu" target="russia" id="59" weight="6" />
+      <edge source="russia" target="fuel" id="60" weight="4" />
+      <edge source="russia" target="petrol" id="61" weight="9" />
+      <edge source="russia" target="reason" id="62" weight="8" />
+      <edge source="russia" target="country" id="63" weight="4" />
+      <edge source="russia" target="invaded" id="64" weight="4" />
+      <edge source="russia" target="like" id="65" weight="4" />
+      <edge source="russia" target="nato" id="66" weight="7" />
+      <edge source="russia" target="ukrainian" id="67" weight="4" />
+      <edge source="russia" target="vulnerable" id="68" weight="4" />
+      <edge source="ukrainian" target="respect" id="69" weight="4" />
+      <edge source="ukrainian" target="takes" id="70" weight="4" />
+      <edge source="ukrainian" target="bend" id="71" weight="4" />
+      <edge source="ukrainian" target="bitch" id="72" weight="4" />
+      <edge source="ukrainian" target="curious" id="73" weight="4" />
+      <edge source="ukrainian" target="im" id="74" weight="4" />
+      <edge source="ukrainian" target="like" id="75" weight="4" />
+      <edge source="ukrainian" target="little" id="76" weight="4" />
+      <edge source="ukrainian" target="russians" id="77" weight="4" />
+      <edge source="ukrainian" target="still" id="78" weight="4" />
+      <edge source="germany" target="liter" id="79" weight="4" />
+      <edge source="liter" target="reached" id="80" weight="4" />
+      <edge source="petrol" target="prices" id="81" weight="4" />
+      <edge source="reason" target="nato" id="82" weight="4" />
+    </edges>
+  </graph>
+</gexf>

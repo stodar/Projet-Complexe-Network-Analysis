@@ -1,0 +1,1915 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-03-26">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="actual" label="actual" />
+      <node id="like" label="like" />
+      <node id="ada" label="ada" />
+      <node id="minyak" label="minyak" />
+      <node id="adding" label="adding" />
+      <node id="russia" label="russia" />
+      <node id="ukraine" label="ukraine" />
+      <node id="address" label="address" />
+      <node id="poland" label="poland" />
+      <node id="admin" label="admin" />
+      <node id="prices" label="prices" />
+      <node id="affected" label="affected" />
+      <node id="cunning" label="cunning" />
+      <node id="destroyed" label="destroyed" />
+      <node id="eu" label="eu" />
+      <node id="evil" label="evil" />
+      <node id="extreme" label="extreme" />
+      <node id="foolishness" label="foolishness" />
+      <node id="gov" label="gov" />
+      <node id="laugh" label="laugh" />
+      <node id="nato" label="nato" />
+      <node id="puppets" label="puppets" />
+      <node id="rising" label="rising" />
+      <node id="stopped" label="stopped" />
+      <node id="suffer" label="suffer" />
+      <node id="usa" label="usa" />
+      <node id="africa" label="africa" />
+      <node id="aid" label="aid" />
+      <node id="nsw" label="nsw" />
+      <node id="amid" label="amid" />
+      <node id="guardian" label="guardian" />
+      <node id="new" label="new" />
+      <node id="war" label="war" />
+      <node id="zealand" label="zealand" />
+      <node id="amp" label="amp" />
+      <node id="begging" label="begging" />
+      <node id="cheap" label="cheap" />
+      <node id="destruction" label="destruction" />
+      <node id="goes" label="goes" />
+      <node id="govt" label="govt" />
+      <node id="hard" label="hard" />
+      <node id="hate" label="hate" />
+      <node id="indovspak" label="indovspak" />
+      <node id="invaded" label="invaded" />
+      <node id="iraq" label="iraq" />
+      <node id="libya" label="libya" />
+      <node id="looking" label="looking" />
+      <node id="maintain" label="maintain" />
+      <node id="major" label="major" />
+      <node id="mass" label="mass" />
+      <node id="peaceful" label="peaceful" />
+      <node id="petrol" label="petrol" />
+      <node id="reduce" label="reduce" />
+      <node id="round" label="round" />
+      <node id="save" label="save" />
+      <node id="syria" label="syria" />
+      <node id="trying" label="trying" />
+      <node id="weapons" label="weapons" />
+      <node id="west" label="west" />
+      <node id="ang" label="ang" />
+      <node id="nangyayari" label="nangyayari" />
+      <node id="sa" label="sa" />
+      <node id="think" label="think" />
+      <node id="angola" label="angola" />
+      <node id="apektado" label="apektado" />
+      <node id="apologist" label="apologist" />
+      <node id="ardern" label="ardern" />
+      <node id="ask" label="ask" />
+      <node id="president" label="president" />
+      <node id="asked" label="asked" />
+      <node id="australian" label="australian" />
+      <node id="comes" label="comes" />
+      <node id="crap" label="crap" />
+      <node id="cut" label="cut" />
+      <node id="don" label="don" />
+      <node id="east" label="east" />
+      <node id="excise" label="excise" />
+      <node id="fuel" label="fuel" />
+      <node id="hikes" label="hikes" />
+      <node id="know" label="know" />
+      <node id="middle" label="middle" />
+      <node id="oil" label="oil" />
+      <node id="price" label="price" />
+      <node id="simon" label="simon" />
+      <node id="sure" label="sure" />
+      <node id="understand" label="understand" />
+      <node id="attacking" label="attacking" />
+      <node id="china" label="china" />
+      <node id="facing" label="facing" />
+      <node id="germany" label="germany" />
+      <node id="increased" label="increased" />
+      <node id="inflation" label="inflation" />
+      <node id="outbreak" label="outbreak" />
+      <node id="past" label="past" />
+      <node id="rupees" label="rupees" />
+      <node id="shot" label="shot" />
+      <node id="single" label="single" />
+      <node id="srilanka" label="srilanka" />
+      <node id="worst" label="worst" />
+      <node id="years" label="years" />
+      <node id="aussie" label="aussie" />
+      <node id="bad" label="bad" />
+      <node id="say" label="say" />
+      <node id="badly" label="badly" />
+      <node id="balle" label="balle" />
+      <node id="la" label="la" />
+      <node id="barang" label="barang" />
+      <node id="belarus" label="belarus" />
+      <node id="biden" label="biden" />
+      <node id="bigots" label="bigots" />
+      <node id="birmingham" label="birmingham" />
+      <node id="saying" label="saying" />
+      <node id="bombing" label="bombing" />
+      <node id="branch" label="branch" />
+      <node id="brent" label="brent" />
+      <node id="budget" label="budget" />
+      <node id="buy" label="buy" />
+      <node id="buying" label="buying" />
+      <node id="russian" label="russian" />
+      <node id="causing" label="causing" />
+      <node id="certify" label="certify" />
+      <node id="children" label="children" />
+      <node id="covid" label="covid" />
+      <node id="invasion" label="invasion" />
+      <node id="chine" label="chine" />
+      <node id="est" label="est" />
+      <node id="le" label="le" />
+      <node id="russie" label="russie" />
+      <node id="citizens" label="citizens" />
+      <node id="coal" label="coal" />
+      <node id="common" label="common" />
+      <node id="conflict" label="conflict" />
+      <node id="daily" label="daily" />
+      <node id="diesel" label="diesel" />
+      <node id="economy" label="economy" />
+      <node id="europe" label="europe" />
+      <node id="explode" label="explode" />
+      <node id="gas" label="gas" />
+      <node id="litre" label="litre" />
+      <node id="mps" label="mps" />
+      <node id="possibility" label="possibility" />
+      <node id="warned" label="warned" />
+      <node id="conomique" label="conomique" />
+      <node id="quand" label="quand" />
+      <node id="consumption" label="consumption" />
+      <node id="continued" label="continued" />
+      <node id="control" label="control" />
+      <node id="cooking" label="cooking" />
+      <node id="cost" label="cost" />
+      <node id="costs" label="costs" />
+      <node id="count" label="count" />
+      <node id="countries" label="countries" />
+      <node id="country" label="country" />
+      <node id="fares" label="fares" />
+      <node id="transport" label="transport" />
+      <node id="coupe" label="coupe" />
+      <node id="coupons" label="coupons" />
+      <node id="cases" label="cases" />
+      <node id="crude" label="crude" />
+      <node id="barrel" label="barrel" />
+      <node id="current" label="current" />
+      <node id="cutting" label="cutting" />
+      <node id="cuz" label="cuz" />
+      <node id="danger" label="danger" />
+      <node id="dclar" label="dclar" />
+      <node id="debt" label="debt" />
+      <node id="gdp" label="gdp" />
+      <node id="happened" label="happened" />
+      <node id="roubles" label="roubles" />
+      <node id="shrink" label="shrink" />
+      <node id="surge" label="surge" />
+      <node id="uk" label="uk" />
+      <node id="ukraines" label="ukraines" />
+      <node id="deregulated" label="deregulated" />
+      <node id="despite" label="despite" />
+      <node id="record" label="record" />
+      <node id="determined" label="determined" />
+      <node id="didin" label="didin" />
+      <node id="dirty" label="dirty" />
+      <node id="does" label="does" />
+      <node id="doesnt" label="doesnt" />
+      <node id="donc" label="donc" />
+      <node id="dont" label="dont" />
+      <node id="driving" label="driving" />
+      <node id="elle" label="elle" />
+      <node id="en" label="en" />
+      <node id="encore" label="encore" />
+      <node id="especially" label="especially" />
+      <node id="allez" label="allez" />
+      <node id="coup" label="coup" />
+      <node id="et" label="et" />
+      <node id="gaz" label="gaz" />
+      <node id="guerre" label="guerre" />
+      <node id="les" label="les" />
+      <node id="nerf" label="nerf" />
+      <node id="ptrole" label="ptrole" />
+      <node id="tenez" label="tenez" />
+      <node id="ukrainiens" label="ukrainiens" />
+      <node id="govs" label="govs" />
+      <node id="puppet" label="puppet" />
+      <node id="excellency" label="excellency" />
+      <node id="explosion" label="explosion" />
+      <node id="external" label="external" />
+      <node id="fact" label="fact" />
+      <node id="fair" label="fair" />
+      <node id="fall" label="fall" />
+      <node id="soar" label="soar" />
+      <node id="feeling" label="feeling" />
+      <node id="food" label="food" />
+      <node id="gallon" label="gallon" />
+      <node id="gets" label="gets" />
+      <node id="good" label="good" />
+      <node id="harga" label="harga" />
+      <node id="push" label="push" />
+      <node id="government" label="government" />
+      <node id="halves" label="halves" />
+      <node id="public" label="public" />
+      <node id="ni" label="ni" />
+      <node id="keys" label="keys" />
+      <node id="medicine" label="medicine" />
+      <node id="ocean" label="ocean" />
+      <node id="people" label="people" />
+      <node id="threw" label="threw" />
+      <node id="hi" label="hi" />
+      <node id="high" label="high" />
+      <node id="hindi" label="hindi" />
+      <node id="raw" label="raw" />
+      <node id="imported" label="imported" />
+      <node id="impose" label="impose" />
+      <node id="india" label="india" />
+      <node id="indians" label="indians" />
+      <node id="isole" label="isole" />
+      <node id="jacinda" label="jacinda" />
+      <node id="jarosaw" label="jarosaw" />
+      <node id="jours" label="jours" />
+      <node id="kaczyski" label="kaczyski" />
+      <node id="ke" label="ke" />
+      <node id="kindly" label="kindly" />
+      <node id="km" label="km" />
+      <node id="labels" label="labels" />
+      <node id="avec" label="avec" />
+      <node id="dirigeants" label="dirigeants" />
+      <node id="faute" label="faute" />
+      <node id="ne" label="ne" />
+      <node id="pas" label="pas" />
+      <node id="plus" label="plus" />
+      <node id="putin" label="putin" />
+      <node id="renvoies" label="renvoies" />
+      <node id="soyez" label="soyez" />
+      <node id="terminera" label="terminera" />
+      <node id="votre" label="votre" />
+      <node id="pumps" label="pumps" />
+      <node id="leader" label="leader" />
+      <node id="light" label="light" />
+      <node id="god" label="god" />
+      <node id="limit" label="limit" />
+      <node id="lines" label="lines" />
+      <node id="live" label="live" />
+      <node id="magnificent" label="magnificent" />
+      <node id="mateusz" label="mateusz" />
+      <node id="means" label="means" />
+      <node id="member" label="member" />
+      <node id="military" label="military" />
+      <node id="months" label="months" />
+      <node id="morawieck" label="morawieck" />
+      <node id="mr" label="mr" />
+      <node id="nigeria" label="nigeria" />
+      <node id="grow" label="grow" />
+      <node id="absolute" label="absolute" />
+      <node id="disgrace" label="disgrace" />
+      <node id="dropped" label="dropped" />
+      <node id="sidelined" label="sidelined" />
+      <node id="waiting" label="waiting" />
+      <node id="opec" label="opec" />
+      <node id="pay" label="pay" />
+      <node id="peace" label="peace" />
+      <node id="close" label="close" />
+      <node id="feed" label="feed" />
+      <node id="half" label="half" />
+      <node id="million" label="million" />
+      <node id="need" label="need" />
+      <node id="soldiers" label="soldiers" />
+      <node id="climate" label="climate" />
+      <node id="going" label="going" />
+      <node id="increase" label="increase" />
+      <node id="juju" label="juju" />
+      <node id="man" label="man" />
+      <node id="sold" label="sold" />
+      <node id="talking" label="talking" />
+      <node id="went" label="went" />
+      <node id="wheat" label="wheat" />
+      <node id="world" label="world" />
+      <node id="pipeline" label="pipeline" />
+      <node id="plan" label="plan" />
+      <node id="away" label="away" />
+      <node id="blocked" label="blocked" />
+      <node id="chased" label="chased" />
+      <node id="lorries" label="lorries" />
+      <node id="police" label="police" />
+      <node id="polish" label="polish" />
+      <node id="end" label="end" />
+      <node id="kill" label="kill" />
+      <node id="particularly" label="particularly" />
+      <node id="poor" label="poor" />
+      <node id="poorest" label="poorest" />
+      <node id="coming" label="coming" />
+      <node id="complaining" label="complaining" />
+      <node id="subsidy" label="subsidy" />
+      <node id="things" label="things" />
+      <node id="unnecessary" label="unnecessary" />
+      <node id="wont" label="wont" />
+      <node id="bicycle" label="bicycle" />
+      <node id="blaming" label="blaming" />
+      <node id="bomb" label="bomb" />
+      <node id="expected" label="expected" />
+      <node id="highs" label="highs" />
+      <node id="read" label="read" />
+      <node id="relief" label="relief" />
+      <node id="turning" label="turning" />
+      <node id="putting" label="putting" />
+      <node id="rands" label="rands" />
+      <node id="reasons" label="reasons" />
+      <node id="accidents" label="accidents" />
+      <node id="boycott" label="boycott" />
+      <node id="consumer" label="consumer" />
+      <node id="death" label="death" />
+      <node id="easier" label="easier" />
+      <node id="freedom" label="freedom" />
+      <node id="road" label="road" />
+      <node id="social" label="social" />
+      <node id="support" label="support" />
+      <node id="toll" label="toll" />
+      <node id="requests" label="requests" />
+      <node id="rt" label="rt" />
+      <node id="blockade" label="blockade" />
+      <node id="reason" label="reason" />
+      <node id="south" label="south" />
+      <node id="threatens" label="threatens" />
+      <node id="attacks" label="attacks" />
+      <node id="sanctions" label="sanctions" />
+      <node id="hot" label="hot" />
+      <node id="time" label="time" />
+      <node id="seen" label="seen" />
+      <node id="sell" label="sell" />
+      <node id="sells" label="sells" />
+      <node id="seulement" label="seulement" />
+      <node id="shall" label="shall" />
+      <node id="si" label="si" />
+      <node id="speed" label="speed" />
+      <node id="state" label="state" />
+      <node id="states" label="states" />
+      <node id="still" label="still" />
+      <node id="stop" label="stop" />
+      <node id="strike" label="strike" />
+      <node id="supporting" label="supporting" />
+      <node id="taiwan" label="taiwan" />
+      <node id="tombe" label="tombe" />
+      <node id="trump" label="trump" />
+      <node id="soon" label="soon" />
+      <node id="updates" label="updates" />
+      <node id="volatility" label="volatility" />
+      <node id="wants" label="wants" />
+      <node id="scope" label="scope" />
+      <node id="warns" label="warns" />
+      <node id="water" label="water" />
+    </nodes>
+    <edges>
+      <edge source="actual" target="like" id="0" weight="4" />
+      <edge source="actual" target="price" id="1" weight="4" />
+      <edge source="like" target="cost" id="2" weight="4" />
+      <edge source="like" target="crude" id="3" weight="4" />
+      <edge source="like" target="deregulated" id="4" weight="4" />
+      <edge source="like" target="determined" id="5" weight="4" />
+      <edge source="like" target="diesel" id="6" weight="4" />
+      <edge source="like" target="doesnt" id="7" weight="4" />
+      <edge source="like" target="god" id="8" weight="4" />
+      <edge source="like" target="petrol" id="9" weight="7" />
+      <edge source="like" target="russia" id="10" weight="9" />
+      <edge source="like" target="ukraine" id="11" weight="5" />
+      <edge source="like" target="war" id="12" weight="4" />
+      <edge source="like" target="oil" id="13" weight="6" />
+      <edge source="like" target="price" id="14" weight="8" />
+      <edge source="like" target="reasons" id="15" weight="4" />
+      <edge source="like" target="subsidy" id="16" weight="4" />
+      <edge source="ada" target="minyak" id="17" weight="4" />
+      <edge source="ada" target="harga" id="18" weight="4" />
+      <edge source="minyak" target="barang" id="19" weight="4" />
+      <edge source="minyak" target="gov" id="20" weight="5" />
+      <edge source="minyak" target="harga" id="21" weight="6" />
+      <edge source="minyak" target="ke" id="22" weight="4" />
+      <edge source="minyak" target="ni" id="23" weight="4" />
+      <edge source="adding" target="russia" id="24" weight="4" />
+      <edge source="adding" target="ukraine" id="25" weight="4" />
+      <edge source="russia" target="address" id="26" weight="4" />
+      <edge source="russia" target="africa" id="27" weight="4" />
+      <edge source="russia" target="amid" id="28" weight="33" />
+      <edge source="russia" target="amp" id="29" weight="10" />
+      <edge source="russia" target="angola" id="30" weight="4" />
+      <edge source="russia" target="asked" id="31" weight="12" />
+      <edge source="russia" target="australian" id="32" weight="12" />
+      <edge source="russia" target="belarus" id="33" weight="4" />
+      <edge source="russia" target="biden" id="34" weight="4" />
+      <edge source="russia" target="birmingham" id="35" weight="12" />
+      <edge source="russia" target="branch" id="36" weight="4" />
+      <edge source="russia" target="budget" id="37" weight="4" />
+      <edge source="russia" target="buy" id="38" weight="10" />
+      <edge source="russia" target="certify" id="39" weight="4" />
+      <edge source="russia" target="coal" id="40" weight="4" />
+      <edge source="russia" target="comes" id="41" weight="6" />
+      <edge source="russia" target="conflict" id="42" weight="26" />
+      <edge source="russia" target="cost" id="43" weight="6" />
+      <edge source="russia" target="costs" id="44" weight="6" />
+      <edge source="russia" target="count" id="45" weight="4" />
+      <edge source="russia" target="country" id="46" weight="4" />
+      <edge source="russia" target="cuz" id="47" weight="4" />
+      <edge source="russia" target="despite" id="48" weight="4" />
+      <edge source="russia" target="didin" id="49" weight="4" />
+      <edge source="russia" target="diesel" id="50" weight="24" />
+      <edge source="russia" target="don" id="51" weight="6" />
+      <edge source="russia" target="dont" id="52" weight="5" />
+      <edge source="russia" target="east" id="53" weight="7" />
+      <edge source="russia" target="eu" id="54" weight="8" />
+      <edge source="russia" target="fact" id="55" weight="4" />
+      <edge source="russia" target="fall" id="56" weight="4" />
+      <edge source="russia" target="fares" id="57" weight="34" />
+      <edge source="russia" target="fuel" id="58" weight="20" />
+      <edge source="russia" target="gaz" id="59" weight="4" />
+      <edge source="russia" target="germany" id="60" weight="10" />
+      <edge source="russia" target="gets" id="61" weight="6" />
+      <edge source="russia" target="gov" id="62" weight="9" />
+      <edge source="russia" target="govs" id="63" weight="4" />
+      <edge source="russia" target="halves" id="64" weight="32" />
+      <edge source="russia" target="hikes" id="65" weight="13" />
+      <edge source="russia" target="india" id="66" weight="4" />
+      <edge source="russia" target="jarosaw" id="67" weight="4" />
+      <edge source="russia" target="kaczyski" id="68" weight="4" />
+      <edge source="russia" target="know" id="69" weight="16" />
+      <edge source="russia" target="lines" id="70" weight="4" />
+      <edge source="russia" target="mateusz" id="71" weight="4" />
+      <edge source="russia" target="middle" id="72" weight="6" />
+      <edge source="russia" target="months" id="73" weight="5" />
+      <edge source="russia" target="morawieck" id="74" weight="4" />
+      <edge source="russia" target="mr" id="75" weight="4" />
+      <edge source="russia" target="nato" id="76" weight="7" />
+      <edge source="russia" target="new" id="77" weight="6" />
+      <edge source="russia" target="nigeria" id="78" weight="4" />
+      <edge source="russia" target="oil" id="79" weight="15" />
+      <edge source="russia" target="opec" id="80" weight="4" />
+      <edge source="russia" target="pay" id="81" weight="13" />
+      <edge source="russia" target="peace" id="82" weight="4" />
+      <edge source="russia" target="people" id="83" weight="4" />
+      <edge source="russia" target="petrol" id="84" weight="77" />
+      <edge source="russia" target="pipeline" id="85" weight="4" />
+      <edge source="russia" target="plan" id="86" weight="4" />
+      <edge source="russia" target="poland" id="87" weight="4" />
+      <edge source="russia" target="president" id="88" weight="8" />
+      <edge source="russia" target="price" id="89" weight="9" />
+      <edge source="russia" target="prices" id="90" weight="24" />
+      <edge source="russia" target="public" id="91" weight="32" />
+      <edge source="russia" target="puppet" id="92" weight="4" />
+      <edge source="russia" target="push" id="93" weight="4" />
+      <edge source="russia" target="putin" id="94" weight="8" />
+      <edge source="russia" target="rands" id="95" weight="4" />
+      <edge source="russia" target="record" id="96" weight="6" />
+      <edge source="russia" target="reduce" id="97" weight="4" />
+      <edge source="russia" target="rt" id="98" weight="4" />
+      <edge source="russia" target="affected" id="99" weight="6" />
+      <edge source="russia" target="attacking" id="100" weight="8" />
+      <edge source="russia" target="away" id="101" weight="4" />
+      <edge source="russia" target="bad" id="102" weight="4" />
+      <edge source="russia" target="badly" id="103" weight="4" />
+      <edge source="russia" target="blockade" id="104" weight="4" />
+      <edge source="russia" target="chased" id="105" weight="4" />
+      <edge source="russia" target="china" id="106" weight="6" />
+      <edge source="russia" target="citizens" id="107" weight="4" />
+      <edge source="russia" target="covid" id="108" weight="6" />
+      <edge source="russia" target="crap" id="109" weight="12" />
+      <edge source="russia" target="cunning" id="110" weight="4" />
+      <edge source="russia" target="cut" id="111" weight="12" />
+      <edge source="russia" target="daily" id="112" weight="4" />
+      <edge source="russia" target="debt" id="113" weight="11" />
+      <edge source="russia" target="destroyed" id="114" weight="4" />
+      <edge source="russia" target="destruction" id="115" weight="4" />
+      <edge source="russia" target="economy" id="116" weight="4" />
+      <edge source="russia" target="europe" id="117" weight="13" />
+      <edge source="russia" target="evil" id="118" weight="4" />
+      <edge source="russia" target="excise" id="119" weight="12" />
+      <edge source="russia" target="explode" id="120" weight="4" />
+      <edge source="russia" target="external" id="121" weight="11" />
+      <edge source="russia" target="extreme" id="122" weight="4" />
+      <edge source="russia" target="foolishness" id="123" weight="4" />
+      <edge source="russia" target="gas" id="124" weight="4" />
+      <edge source="russia" target="gdp" id="125" weight="11" />
+      <edge source="russia" target="going" id="126" weight="6" />
+      <edge source="russia" target="guardian" id="127" weight="11" />
+      <edge source="russia" target="happened" id="128" weight="11" />
+      <edge source="russia" target="high" id="129" weight="4" />
+      <edge source="russia" target="increase" id="130" weight="6" />
+      <edge source="russia" target="indovspak" id="131" weight="4" />
+      <edge source="russia" target="inflation" id="132" weight="8" />
+      <edge source="russia" target="invaded" id="133" weight="8" />
+      <edge source="russia" target="invasion" id="134" weight="9" />
+      <edge source="russia" target="iraq" id="135" weight="4" />
+      <edge source="russia" target="la" id="136" weight="18" />
+      <edge source="russia" target="laugh" id="137" weight="4" />
+      <edge source="russia" target="libya" id="138" weight="4" />
+      <edge source="russia" target="litre" id="139" weight="20" />
+      <edge source="russia" target="mass" id="140" weight="4" />
+      <edge source="russia" target="mps" id="141" weight="20" />
+      <edge source="russia" target="peaceful" id="142" weight="4" />
+      <edge source="russia" target="police" id="143" weight="4" />
+      <edge source="russia" target="polish" id="144" weight="4" />
+      <edge source="russia" target="possibility" id="145" weight="20" />
+      <edge source="russia" target="puppets" id="146" weight="4" />
+      <edge source="russia" target="quand" id="147" weight="6" />
+      <edge source="russia" target="reason" id="148" weight="4" />
+      <edge source="russia" target="rising" id="149" weight="6" />
+      <edge source="russia" target="roubles" id="150" weight="9" />
+      <edge source="russia" target="russian" id="151" weight="4" />
+      <edge source="russia" target="russie" id="152" weight="9" />
+      <edge source="russia" target="say" id="153" weight="4" />
+      <edge source="russia" target="shrink" id="154" weight="11" />
+      <edge source="russia" target="simon" id="155" weight="12" />
+      <edge source="russia" target="south" id="156" weight="4" />
+      <edge source="russia" target="stopped" id="157" weight="5" />
+      <edge source="russia" target="suffer" id="158" weight="4" />
+      <edge source="russia" target="surge" id="159" weight="12" />
+      <edge source="russia" target="syria" id="160" weight="4" />
+      <edge source="russia" target="things" id="161" weight="4" />
+      <edge source="russia" target="threatens" id="162" weight="11" />
+      <edge source="russia" target="transport" id="163" weight="31" />
+      <edge source="russia" target="uk" id="164" weight="11" />
+      <edge source="russia" target="ukraine" id="165" weight="71" />
+      <edge source="russia" target="ukraines" id="166" weight="11" />
+      <edge source="russia" target="understand" id="167" weight="6" />
+      <edge source="russia" target="usa" id="168" weight="8" />
+      <edge source="russia" target="war" id="169" weight="15" />
+      <edge source="russia" target="warned" id="170" weight="20" />
+      <edge source="russia" target="weapons" id="171" weight="4" />
+      <edge source="russia" target="west" id="172" weight="4" />
+      <edge source="russia" target="wheat" id="173" weight="4" />
+      <edge source="russia" target="zealand" id="174" weight="31" />
+      <edge source="russia" target="sanctions" id="175" weight="7" />
+      <edge source="russia" target="saying" id="176" weight="14" />
+      <edge source="russia" target="seen" id="177" weight="6" />
+      <edge source="russia" target="sell" id="178" weight="4" />
+      <edge source="russia" target="soar" id="179" weight="32" />
+      <edge source="russia" target="state" id="180" weight="4" />
+      <edge source="russia" target="still" id="181" weight="4" />
+      <edge source="russia" target="stop" id="182" weight="5" />
+      <edge source="russia" target="support" id="183" weight="9" />
+      <edge source="russia" target="sure" id="184" weight="12" />
+      <edge source="russia" target="taiwan" id="185" weight="4" />
+      <edge source="russia" target="trump" id="186" weight="4" />
+      <edge source="russia" target="went" id="187" weight="5" />
+      <edge source="russia" target="world" id="188" weight="4" />
+      <edge source="ukraine" target="affected" id="189" weight="6" />
+      <edge source="ukraine" target="amid" id="190" weight="4" />
+      <edge source="ukraine" target="amp" id="191" weight="11" />
+      <edge source="ukraine" target="ang" id="192" weight="4" />
+      <edge source="ukraine" target="apektado" id="193" weight="4" />
+      <edge source="ukraine" target="asked" id="194" weight="6" />
+      <edge source="ukraine" target="australian" id="195" weight="6" />
+      <edge source="ukraine" target="badly" id="196" weight="4" />
+      <edge source="ukraine" target="belarus" id="197" weight="4" />
+      <edge source="ukraine" target="birmingham" id="198" weight="6" />
+      <edge source="ukraine" target="bombing" id="199" weight="4" />
+      <edge source="ukraine" target="branch" id="200" weight="4" />
+      <edge source="ukraine" target="budget" id="201" weight="4" />
+      <edge source="ukraine" target="buy" id="202" weight="4" />
+      <edge source="ukraine" target="certify" id="203" weight="4" />
+      <edge source="ukraine" target="china" id="204" weight="6" />
+      <edge source="ukraine" target="conflict" id="205" weight="30" />
+      <edge source="ukraine" target="cost" id="206" weight="6" />
+      <edge source="ukraine" target="country" id="207" weight="4" />
+      <edge source="ukraine" target="cunning" id="208" weight="8" />
+      <edge source="ukraine" target="despite" id="209" weight="4" />
+      <edge source="ukraine" target="destroyed" id="210" weight="4" />
+      <edge source="ukraine" target="diesel" id="211" weight="24" />
+      <edge source="ukraine" target="economy" id="212" weight="4" />
+      <edge source="ukraine" target="eu" id="213" weight="20" />
+      <edge source="ukraine" target="europe" id="214" weight="13" />
+      <edge source="ukraine" target="evil" id="215" weight="8" />
+      <edge source="ukraine" target="explode" id="216" weight="4" />
+      <edge source="ukraine" target="extreme" id="217" weight="8" />
+      <edge source="ukraine" target="fall" id="218" weight="4" />
+      <edge source="ukraine" target="fares" id="219" weight="34" />
+      <edge source="ukraine" target="foolishness" id="220" weight="8" />
+      <edge source="ukraine" target="gas" id="221" weight="4" />
+      <edge source="ukraine" target="gaz" id="222" weight="4" />
+      <edge source="ukraine" target="germany" id="223" weight="8" />
+      <edge source="ukraine" target="gets" id="224" weight="6" />
+      <edge source="ukraine" target="gov" id="225" weight="21" />
+      <edge source="ukraine" target="govs" id="226" weight="4" />
+      <edge source="ukraine" target="halves" id="227" weight="32" />
+      <edge source="ukraine" target="hikes" id="228" weight="7" />
+      <edge source="ukraine" target="hindi" id="229" weight="4" />
+      <edge source="ukraine" target="india" id="230" weight="4" />
+      <edge source="ukraine" target="inflation" id="231" weight="8" />
+      <edge source="ukraine" target="invaded" id="232" weight="4" />
+      <edge source="ukraine" target="invasion" id="233" weight="9" />
+      <edge source="ukraine" target="know" id="234" weight="8" />
+      <edge source="ukraine" target="laugh" id="235" weight="8" />
+      <edge source="ukraine" target="lines" id="236" weight="4" />
+      <edge source="ukraine" target="months" id="237" weight="5" />
+      <edge source="ukraine" target="nangyayari" id="238" weight="4" />
+      <edge source="ukraine" target="nato" id="239" weight="11" />
+      <edge source="ukraine" target="new" id="240" weight="8" />
+      <edge source="ukraine" target="nigeria" id="241" weight="4" />
+      <edge source="ukraine" target="oil" id="242" weight="9" />
+      <edge source="ukraine" target="peace" id="243" weight="4" />
+      <edge source="ukraine" target="petrol" id="244" weight="70" />
+      <edge source="ukraine" target="pipeline" id="245" weight="4" />
+      <edge source="ukraine" target="poland" id="246" weight="6" />
+      <edge source="ukraine" target="president" id="247" weight="6" />
+      <edge source="ukraine" target="price" id="248" weight="8" />
+      <edge source="ukraine" target="prices" id="249" weight="28" />
+      <edge source="ukraine" target="public" id="250" weight="32" />
+      <edge source="ukraine" target="puppet" id="251" weight="4" />
+      <edge source="ukraine" target="puppets" id="252" weight="8" />
+      <edge source="ukraine" target="push" id="253" weight="12" />
+      <edge source="ukraine" target="raw" id="254" weight="4" />
+      <edge source="ukraine" target="reduce" id="255" weight="4" />
+      <edge source="ukraine" target="rt" id="256" weight="4" />
+      <edge source="ukraine" target="russian" id="257" weight="9" />
+      <edge source="ukraine" target="sa" id="258" weight="10" />
+      <edge source="ukraine" target="sanctions" id="259" weight="6" />
+      <edge source="ukraine" target="say" id="260" weight="6" />
+      <edge source="ukraine" target="saying" id="261" weight="8" />
+      <edge source="ukraine" target="seen" id="262" weight="4" />
+      <edge source="ukraine" target="simon" id="263" weight="6" />
+      <edge source="ukraine" target="soar" id="264" weight="32" />
+      <edge source="ukraine" target="suffer" id="265" weight="8" />
+      <edge source="ukraine" target="support" id="266" weight="5" />
+      <edge source="ukraine" target="supporting" id="267" weight="4" />
+      <edge source="ukraine" target="sure" id="268" weight="6" />
+      <edge source="ukraine" target="transport" id="269" weight="4" />
+      <edge source="ukraine" target="attacking" id="270" weight="6" />
+      <edge source="ukraine" target="bad" id="271" weight="4" />
+      <edge source="ukraine" target="climate" id="272" weight="4" />
+      <edge source="ukraine" target="comes" id="273" weight="6" />
+      <edge source="ukraine" target="costs" id="274" weight="4" />
+      <edge source="ukraine" target="covid" id="275" weight="6" />
+      <edge source="ukraine" target="crap" id="276" weight="6" />
+      <edge source="ukraine" target="cut" id="277" weight="6" />
+      <edge source="ukraine" target="daily" id="278" weight="4" />
+      <edge source="ukraine" target="don" id="279" weight="6" />
+      <edge source="ukraine" target="east" id="280" weight="7" />
+      <edge source="ukraine" target="excise" id="281" weight="6" />
+      <edge source="ukraine" target="fuel" id="282" weight="12" />
+      <edge source="ukraine" target="going" id="283" weight="6" />
+      <edge source="ukraine" target="guardian" id="284" weight="11" />
+      <edge source="ukraine" target="high" id="285" weight="6" />
+      <edge source="ukraine" target="hot" id="286" weight="4" />
+      <edge source="ukraine" target="increase" id="287" weight="6" />
+      <edge source="ukraine" target="litre" id="288" weight="20" />
+      <edge source="ukraine" target="middle" id="289" weight="6" />
+      <edge source="ukraine" target="mps" id="290" weight="20" />
+      <edge source="ukraine" target="possibility" id="291" weight="20" />
+      <edge source="ukraine" target="putin" id="292" weight="5" />
+      <edge source="ukraine" target="reason" id="293" weight="6" />
+      <edge source="ukraine" target="record" id="294" weight="10" />
+      <edge source="ukraine" target="relief" id="295" weight="4" />
+      <edge source="ukraine" target="rising" id="296" weight="14" />
+      <edge source="ukraine" target="soon" id="297" weight="4" />
+      <edge source="ukraine" target="stopped" id="298" weight="13" />
+      <edge source="ukraine" target="things" id="299" weight="4" />
+      <edge source="ukraine" target="think" id="300" weight="5" />
+      <edge source="ukraine" target="understand" id="301" weight="6" />
+      <edge source="ukraine" target="usa" id="302" weight="18" />
+      <edge source="ukraine" target="war" id="303" weight="13" />
+      <edge source="ukraine" target="warned" id="304" weight="20" />
+      <edge source="ukraine" target="zealand" id="305" weight="31" />
+      <edge source="ukraine" target="went" id="306" weight="5" />
+      <edge source="ukraine" target="wheat" id="307" weight="4" />
+      <edge source="address" target="poland" id="308" weight="6" />
+      <edge source="poland" target="buy" id="309" weight="4" />
+      <edge source="poland" target="citizens" id="310" weight="4" />
+      <edge source="poland" target="coal" id="311" weight="4" />
+      <edge source="poland" target="cuz" id="312" weight="6" />
+      <edge source="poland" target="didin" id="313" weight="4" />
+      <edge source="poland" target="jarosaw" id="314" weight="6" />
+      <edge source="poland" target="kaczyski" id="315" weight="6" />
+      <edge source="poland" target="mateusz" id="316" weight="6" />
+      <edge source="poland" target="morawieck" id="317" weight="6" />
+      <edge source="poland" target="mr" id="318" weight="6" />
+      <edge source="poland" target="petrol" id="319" weight="4" />
+      <edge source="poland" target="away" id="320" weight="6" />
+      <edge source="poland" target="belarus" id="321" weight="6" />
+      <edge source="poland" target="blocked" id="322" weight="4" />
+      <edge source="poland" target="chased" id="323" weight="6" />
+      <edge source="poland" target="going" id="324" weight="4" />
+      <edge source="poland" target="lorries" id="325" weight="4" />
+      <edge source="poland" target="police" id="326" weight="6" />
+      <edge source="poland" target="polish" id="327" weight="6" />
+      <edge source="poland" target="president" id="328" weight="6" />
+      <edge source="poland" target="still" id="329" weight="4" />
+      <edge source="poland" target="stop" id="330" weight="4" />
+      <edge source="admin" target="prices" id="331" weight="4" />
+      <edge source="prices" target="amp" id="332" weight="4" />
+      <edge source="prices" target="apologist" id="333" weight="4" />
+      <edge source="prices" target="attacking" id="334" weight="6" />
+      <edge source="prices" target="aussie" id="335" weight="5" />
+      <edge source="prices" target="causing" id="336" weight="4" />
+      <edge source="prices" target="china" id="337" weight="5" />
+      <edge source="prices" target="continued" id="338" weight="4" />
+      <edge source="prices" target="control" id="339" weight="4" />
+      <edge source="prices" target="cooking" id="340" weight="4" />
+      <edge source="prices" target="country" id="341" weight="4" />
+      <edge source="prices" target="current" id="342" weight="4" />
+      <edge source="prices" target="danger" id="343" weight="4" />
+      <edge source="prices" target="diesel" id="344" weight="7" />
+      <edge source="prices" target="fair" id="345" weight="4" />
+      <edge source="prices" target="fares" id="346" weight="36" />
+      <edge source="prices" target="fuel" id="347" weight="9" />
+      <edge source="prices" target="germany" id="348" weight="5" />
+      <edge source="prices" target="halves" id="349" weight="34" />
+      <edge source="prices" target="hi" id="350" weight="4" />
+      <edge source="prices" target="high" id="351" weight="6" />
+      <edge source="prices" target="invasion" id="352" weight="4" />
+      <edge source="prices" target="live" id="353" weight="5" />
+      <edge source="prices" target="new" id="354" weight="8" />
+      <edge source="prices" target="nigeria" id="355" weight="4" />
+      <edge source="prices" target="oil" id="356" weight="5" />
+      <edge source="prices" target="people" id="357" weight="4" />
+      <edge source="prices" target="petrol" id="358" weight="11" />
+      <edge source="prices" target="amid" id="359" weight="37" />
+      <edge source="prices" target="bicycle" id="360" weight="4" />
+      <edge source="prices" target="biden" id="361" weight="6" />
+      <edge source="prices" target="blaming" id="362" weight="4" />
+      <edge source="prices" target="bomb" id="363" weight="4" />
+      <edge source="prices" target="covid" id="364" weight="7" />
+      <edge source="prices" target="despite" id="365" weight="4" />
+      <edge source="prices" target="dropped" id="366" weight="6" />
+      <edge source="prices" target="expected" id="367" weight="4" />
+      <edge source="prices" target="fall" id="368" weight="6" />
+      <edge source="prices" target="guardian" id="369" weight="13" />
+      <edge source="prices" target="hate" id="370" weight="4" />
+      <edge source="prices" target="highs" id="371" weight="4" />
+      <edge source="prices" target="increase" id="372" weight="5" />
+      <edge source="prices" target="nsw" id="373" weight="4" />
+      <edge source="prices" target="price" id="374" weight="4" />
+      <edge source="prices" target="putin" id="375" weight="7" />
+      <edge source="prices" target="read" id="376" weight="4" />
+      <edge source="prices" target="record" id="377" weight="9" />
+      <edge source="prices" target="relief" id="378" weight="4" />
+      <edge source="prices" target="soar" id="379" weight="39" />
+      <edge source="prices" target="turning" id="380" weight="4" />
+      <edge source="prices" target="usa" id="381" weight="4" />
+      <edge source="prices" target="war" id="382" weight="18" />
+      <edge source="prices" target="zealand" id="383" weight="33" />
+      <edge source="prices" target="public" id="384" weight="34" />
+      <edge source="prices" target="rt" id="385" weight="4" />
+      <edge source="prices" target="say" id="386" weight="6" />
+      <edge source="prices" target="seen" id="387" weight="4" />
+      <edge source="prices" target="transport" id="388" weight="35" />
+      <edge source="prices" target="volatility" id="389" weight="4" />
+      <edge source="prices" target="world" id="390" weight="4" />
+      <edge source="affected" target="cunning" id="391" weight="4" />
+      <edge source="affected" target="destroyed" id="392" weight="4" />
+      <edge source="affected" target="eu" id="393" weight="4" />
+      <edge source="affected" target="evil" id="394" weight="4" />
+      <edge source="affected" target="extreme" id="395" weight="4" />
+      <edge source="affected" target="foolishness" id="396" weight="4" />
+      <edge source="affected" target="gov" id="397" weight="4" />
+      <edge source="affected" target="laugh" id="398" weight="4" />
+      <edge source="affected" target="nato" id="399" weight="4" />
+      <edge source="affected" target="puppets" id="400" weight="4" />
+      <edge source="affected" target="rising" id="401" weight="4" />
+      <edge source="affected" target="stopped" id="402" weight="4" />
+      <edge source="affected" target="suffer" id="403" weight="4" />
+      <edge source="affected" target="usa" id="404" weight="4" />
+      <edge source="affected" target="badly" id="405" weight="4" />
+      <edge source="affected" target="conflict" id="406" weight="4" />
+      <edge source="affected" target="economy" id="407" weight="4" />
+      <edge source="affected" target="europe" id="408" weight="8" />
+      <edge source="affected" target="explode" id="409" weight="4" />
+      <edge source="affected" target="gas" id="410" weight="4" />
+      <edge source="affected" target="govs" id="411" weight="4" />
+      <edge source="affected" target="petrol" id="412" weight="6" />
+      <edge source="affected" target="price" id="413" weight="4" />
+      <edge source="affected" target="puppet" id="414" weight="4" />
+      <edge source="affected" target="push" id="415" weight="4" />
+      <edge source="cunning" target="badly" id="416" weight="4" />
+      <edge source="cunning" target="conflict" id="417" weight="4" />
+      <edge source="cunning" target="eu" id="418" weight="4" />
+      <edge source="cunning" target="evil" id="419" weight="4" />
+      <edge source="cunning" target="extreme" id="420" weight="4" />
+      <edge source="cunning" target="foolishness" id="421" weight="4" />
+      <edge source="cunning" target="gov" id="422" weight="4" />
+      <edge source="cunning" target="laugh" id="423" weight="4" />
+      <edge source="cunning" target="nato" id="424" weight="4" />
+      <edge source="cunning" target="puppets" id="425" weight="4" />
+      <edge source="cunning" target="rising" id="426" weight="4" />
+      <edge source="cunning" target="stopped" id="427" weight="4" />
+      <edge source="cunning" target="usa" id="428" weight="4" />
+      <edge source="cunning" target="destroyed" id="429" weight="4" />
+      <edge source="cunning" target="economy" id="430" weight="4" />
+      <edge source="cunning" target="europe" id="431" weight="8" />
+      <edge source="cunning" target="explode" id="432" weight="4" />
+      <edge source="cunning" target="gas" id="433" weight="4" />
+      <edge source="cunning" target="govs" id="434" weight="4" />
+      <edge source="cunning" target="petrol" id="435" weight="4" />
+      <edge source="cunning" target="price" id="436" weight="4" />
+      <edge source="cunning" target="puppet" id="437" weight="4" />
+      <edge source="cunning" target="push" id="438" weight="4" />
+      <edge source="cunning" target="suffer" id="439" weight="4" />
+      <edge source="destroyed" target="badly" id="440" weight="4" />
+      <edge source="destroyed" target="conflict" id="441" weight="4" />
+      <edge source="destroyed" target="eu" id="442" weight="4" />
+      <edge source="destroyed" target="evil" id="443" weight="4" />
+      <edge source="destroyed" target="extreme" id="444" weight="4" />
+      <edge source="destroyed" target="foolishness" id="445" weight="4" />
+      <edge source="destroyed" target="gov" id="446" weight="4" />
+      <edge source="destroyed" target="laugh" id="447" weight="4" />
+      <edge source="destroyed" target="nato" id="448" weight="4" />
+      <edge source="destroyed" target="puppets" id="449" weight="4" />
+      <edge source="destroyed" target="rising" id="450" weight="4" />
+      <edge source="destroyed" target="stopped" id="451" weight="4" />
+      <edge source="destroyed" target="suffer" id="452" weight="4" />
+      <edge source="destroyed" target="usa" id="453" weight="4" />
+      <edge source="destroyed" target="economy" id="454" weight="4" />
+      <edge source="destroyed" target="europe" id="455" weight="8" />
+      <edge source="destroyed" target="explode" id="456" weight="4" />
+      <edge source="destroyed" target="gas" id="457" weight="4" />
+      <edge source="destroyed" target="govs" id="458" weight="4" />
+      <edge source="destroyed" target="petrol" id="459" weight="4" />
+      <edge source="destroyed" target="price" id="460" weight="4" />
+      <edge source="destroyed" target="puppet" id="461" weight="4" />
+      <edge source="destroyed" target="push" id="462" weight="4" />
+      <edge source="eu" target="badly" id="463" weight="4" />
+      <edge source="eu" target="conflict" id="464" weight="4" />
+      <edge source="eu" target="economy" id="465" weight="4" />
+      <edge source="eu" target="europe" id="466" weight="16" />
+      <edge source="eu" target="evil" id="467" weight="8" />
+      <edge source="eu" target="explode" id="468" weight="8" />
+      <edge source="eu" target="extreme" id="469" weight="8" />
+      <edge source="eu" target="foolishness" id="470" weight="8" />
+      <edge source="eu" target="gas" id="471" weight="8" />
+      <edge source="eu" target="gov" id="472" weight="24" />
+      <edge source="eu" target="govs" id="473" weight="8" />
+      <edge source="eu" target="laugh" id="474" weight="8" />
+      <edge source="eu" target="nato" id="475" weight="4" />
+      <edge source="eu" target="petrol" id="476" weight="9" />
+      <edge source="eu" target="price" id="477" weight="8" />
+      <edge source="eu" target="puppet" id="478" weight="8" />
+      <edge source="eu" target="puppets" id="479" weight="8" />
+      <edge source="eu" target="reduce" id="480" weight="5" />
+      <edge source="eu" target="rising" id="481" weight="12" />
+      <edge source="eu" target="save" id="482" weight="4" />
+      <edge source="eu" target="stopped" id="483" weight="4" />
+      <edge source="eu" target="suffer" id="484" weight="8" />
+      <edge source="eu" target="usa" id="485" weight="20" />
+      <edge source="eu" target="push" id="486" weight="12" />
+      <edge source="evil" target="badly" id="487" weight="4" />
+      <edge source="evil" target="conflict" id="488" weight="4" />
+      <edge source="evil" target="economy" id="489" weight="4" />
+      <edge source="evil" target="europe" id="490" weight="8" />
+      <edge source="evil" target="extreme" id="491" weight="4" />
+      <edge source="evil" target="foolishness" id="492" weight="4" />
+      <edge source="evil" target="gov" id="493" weight="4" />
+      <edge source="evil" target="laugh" id="494" weight="4" />
+      <edge source="evil" target="nato" id="495" weight="4" />
+      <edge source="evil" target="puppets" id="496" weight="4" />
+      <edge source="evil" target="rising" id="497" weight="4" />
+      <edge source="evil" target="stopped" id="498" weight="4" />
+      <edge source="evil" target="usa" id="499" weight="4" />
+      <edge source="evil" target="explode" id="500" weight="4" />
+      <edge source="evil" target="gas" id="501" weight="4" />
+      <edge source="evil" target="govs" id="502" weight="4" />
+      <edge source="evil" target="petrol" id="503" weight="4" />
+      <edge source="evil" target="price" id="504" weight="4" />
+      <edge source="evil" target="puppet" id="505" weight="4" />
+      <edge source="evil" target="push" id="506" weight="4" />
+      <edge source="evil" target="suffer" id="507" weight="4" />
+      <edge source="extreme" target="badly" id="508" weight="4" />
+      <edge source="extreme" target="conflict" id="509" weight="4" />
+      <edge source="extreme" target="economy" id="510" weight="4" />
+      <edge source="extreme" target="europe" id="511" weight="8" />
+      <edge source="extreme" target="explode" id="512" weight="4" />
+      <edge source="extreme" target="foolishness" id="513" weight="4" />
+      <edge source="extreme" target="gov" id="514" weight="8" />
+      <edge source="extreme" target="nato" id="515" weight="4" />
+      <edge source="extreme" target="puppets" id="516" weight="4" />
+      <edge source="extreme" target="rising" id="517" weight="4" />
+      <edge source="extreme" target="stopped" id="518" weight="4" />
+      <edge source="extreme" target="gas" id="519" weight="4" />
+      <edge source="extreme" target="govs" id="520" weight="4" />
+      <edge source="extreme" target="laugh" id="521" weight="4" />
+      <edge source="extreme" target="petrol" id="522" weight="4" />
+      <edge source="extreme" target="price" id="523" weight="4" />
+      <edge source="extreme" target="puppet" id="524" weight="4" />
+      <edge source="extreme" target="push" id="525" weight="4" />
+      <edge source="extreme" target="suffer" id="526" weight="4" />
+      <edge source="extreme" target="usa" id="527" weight="8" />
+      <edge source="foolishness" target="badly" id="528" weight="4" />
+      <edge source="foolishness" target="conflict" id="529" weight="4" />
+      <edge source="foolishness" target="economy" id="530" weight="4" />
+      <edge source="foolishness" target="europe" id="531" weight="8" />
+      <edge source="foolishness" target="explode" id="532" weight="4" />
+      <edge source="foolishness" target="gov" id="533" weight="8" />
+      <edge source="foolishness" target="nato" id="534" weight="4" />
+      <edge source="foolishness" target="puppets" id="535" weight="4" />
+      <edge source="foolishness" target="rising" id="536" weight="4" />
+      <edge source="foolishness" target="stopped" id="537" weight="4" />
+      <edge source="foolishness" target="gas" id="538" weight="4" />
+      <edge source="foolishness" target="govs" id="539" weight="4" />
+      <edge source="foolishness" target="laugh" id="540" weight="4" />
+      <edge source="foolishness" target="petrol" id="541" weight="4" />
+      <edge source="foolishness" target="price" id="542" weight="4" />
+      <edge source="foolishness" target="puppet" id="543" weight="4" />
+      <edge source="foolishness" target="push" id="544" weight="4" />
+      <edge source="foolishness" target="suffer" id="545" weight="4" />
+      <edge source="foolishness" target="usa" id="546" weight="8" />
+      <edge source="gov" target="badly" id="547" weight="4" />
+      <edge source="gov" target="conflict" id="548" weight="4" />
+      <edge source="gov" target="economy" id="549" weight="4" />
+      <edge source="gov" target="europe" id="550" weight="8" />
+      <edge source="gov" target="explode" id="551" weight="4" />
+      <edge source="gov" target="gas" id="552" weight="4" />
+      <edge source="gov" target="govs" id="553" weight="8" />
+      <edge source="gov" target="harga" id="554" weight="4" />
+      <edge source="gov" target="laugh" id="555" weight="4" />
+      <edge source="gov" target="nato" id="556" weight="4" />
+      <edge source="gov" target="petrol" id="557" weight="8" />
+      <edge source="gov" target="price" id="558" weight="8" />
+      <edge source="gov" target="puppet" id="559" weight="8" />
+      <edge source="gov" target="puppets" id="560" weight="4" />
+      <edge source="gov" target="push" id="561" weight="8" />
+      <edge source="gov" target="rising" id="562" weight="12" />
+      <edge source="gov" target="stopped" id="563" weight="12" />
+      <edge source="gov" target="suffer" id="564" weight="8" />
+      <edge source="gov" target="usa" id="565" weight="20" />
+      <edge source="laugh" target="badly" id="566" weight="4" />
+      <edge source="laugh" target="conflict" id="567" weight="4" />
+      <edge source="laugh" target="economy" id="568" weight="4" />
+      <edge source="laugh" target="europe" id="569" weight="8" />
+      <edge source="laugh" target="explode" id="570" weight="4" />
+      <edge source="laugh" target="gas" id="571" weight="4" />
+      <edge source="laugh" target="govs" id="572" weight="4" />
+      <edge source="laugh" target="nato" id="573" weight="4" />
+      <edge source="laugh" target="puppets" id="574" weight="4" />
+      <edge source="laugh" target="rising" id="575" weight="4" />
+      <edge source="laugh" target="stopped" id="576" weight="4" />
+      <edge source="laugh" target="petrol" id="577" weight="4" />
+      <edge source="laugh" target="price" id="578" weight="4" />
+      <edge source="laugh" target="puppet" id="579" weight="4" />
+      <edge source="laugh" target="push" id="580" weight="4" />
+      <edge source="laugh" target="suffer" id="581" weight="4" />
+      <edge source="laugh" target="usa" id="582" weight="8" />
+      <edge source="nato" target="badly" id="583" weight="4" />
+      <edge source="nato" target="conflict" id="584" weight="4" />
+      <edge source="nato" target="economy" id="585" weight="4" />
+      <edge source="nato" target="europe" id="586" weight="8" />
+      <edge source="nato" target="explode" id="587" weight="4" />
+      <edge source="nato" target="gas" id="588" weight="4" />
+      <edge source="nato" target="govs" id="589" weight="4" />
+      <edge source="nato" target="rising" id="590" weight="4" />
+      <edge source="nato" target="stopped" id="591" weight="4" />
+      <edge source="nato" target="petrol" id="592" weight="8" />
+      <edge source="nato" target="price" id="593" weight="4" />
+      <edge source="nato" target="puppet" id="594" weight="4" />
+      <edge source="nato" target="puppets" id="595" weight="4" />
+      <edge source="nato" target="push" id="596" weight="4" />
+      <edge source="nato" target="suffer" id="597" weight="4" />
+      <edge source="nato" target="usa" id="598" weight="8" />
+      <edge source="puppets" target="badly" id="599" weight="4" />
+      <edge source="puppets" target="conflict" id="600" weight="4" />
+      <edge source="puppets" target="economy" id="601" weight="4" />
+      <edge source="puppets" target="europe" id="602" weight="8" />
+      <edge source="puppets" target="explode" id="603" weight="4" />
+      <edge source="puppets" target="gas" id="604" weight="4" />
+      <edge source="puppets" target="govs" id="605" weight="4" />
+      <edge source="puppets" target="petrol" id="606" weight="5" />
+      <edge source="puppets" target="price" id="607" weight="4" />
+      <edge source="puppets" target="puppet" id="608" weight="4" />
+      <edge source="puppets" target="rising" id="609" weight="4" />
+      <edge source="puppets" target="stopped" id="610" weight="4" />
+      <edge source="puppets" target="push" id="611" weight="4" />
+      <edge source="puppets" target="suffer" id="612" weight="4" />
+      <edge source="puppets" target="usa" id="613" weight="8" />
+      <edge source="rising" target="badly" id="614" weight="4" />
+      <edge source="rising" target="conflict" id="615" weight="6" />
+      <edge source="rising" target="economy" id="616" weight="4" />
+      <edge source="rising" target="europe" id="617" weight="8" />
+      <edge source="rising" target="explode" id="618" weight="4" />
+      <edge source="rising" target="gas" id="619" weight="4" />
+      <edge source="rising" target="govs" id="620" weight="4" />
+      <edge source="rising" target="petrol" id="621" weight="4" />
+      <edge source="rising" target="price" id="622" weight="4" />
+      <edge source="rising" target="puppet" id="623" weight="4" />
+      <edge source="rising" target="push" id="624" weight="4" />
+      <edge source="rising" target="stopped" id="625" weight="4" />
+      <edge source="rising" target="suffer" id="626" weight="4" />
+      <edge source="rising" target="usa" id="627" weight="8" />
+      <edge source="stopped" target="amp" id="628" weight="4" />
+      <edge source="stopped" target="badly" id="629" weight="4" />
+      <edge source="stopped" target="conflict" id="630" weight="4" />
+      <edge source="stopped" target="economy" id="631" weight="4" />
+      <edge source="stopped" target="europe" id="632" weight="8" />
+      <edge source="stopped" target="explode" id="633" weight="4" />
+      <edge source="stopped" target="gas" id="634" weight="4" />
+      <edge source="stopped" target="govs" id="635" weight="4" />
+      <edge source="stopped" target="petrol" id="636" weight="6" />
+      <edge source="stopped" target="price" id="637" weight="6" />
+      <edge source="stopped" target="puppet" id="638" weight="4" />
+      <edge source="stopped" target="push" id="639" weight="4" />
+      <edge source="stopped" target="suffer" id="640" weight="4" />
+      <edge source="stopped" target="usa" id="641" weight="8" />
+      <edge source="suffer" target="badly" id="642" weight="4" />
+      <edge source="suffer" target="conflict" id="643" weight="4" />
+      <edge source="suffer" target="economy" id="644" weight="4" />
+      <edge source="suffer" target="europe" id="645" weight="8" />
+      <edge source="suffer" target="explode" id="646" weight="4" />
+      <edge source="suffer" target="gas" id="647" weight="4" />
+      <edge source="suffer" target="govs" id="648" weight="4" />
+      <edge source="suffer" target="petrol" id="649" weight="4" />
+      <edge source="suffer" target="price" id="650" weight="4" />
+      <edge source="suffer" target="puppet" id="651" weight="4" />
+      <edge source="suffer" target="push" id="652" weight="4" />
+      <edge source="suffer" target="usa" id="653" weight="4" />
+      <edge source="usa" target="badly" id="654" weight="4" />
+      <edge source="usa" target="conflict" id="655" weight="4" />
+      <edge source="usa" target="economy" id="656" weight="4" />
+      <edge source="usa" target="europe" id="657" weight="10" />
+      <edge source="usa" target="explode" id="658" weight="4" />
+      <edge source="usa" target="gas" id="659" weight="4" />
+      <edge source="usa" target="govs" id="660" weight="4" />
+      <edge source="usa" target="petrol" id="661" weight="4" />
+      <edge source="usa" target="price" id="662" weight="4" />
+      <edge source="usa" target="puppet" id="663" weight="4" />
+      <edge source="usa" target="push" id="664" weight="4" />
+      <edge source="aid" target="nsw" id="665" weight="4" />
+      <edge source="nsw" target="live" id="666" weight="4" />
+      <edge source="nsw" target="military" id="667" weight="4" />
+      <edge source="nsw" target="cases" id="668" weight="4" />
+      <edge source="nsw" target="covid" id="669" weight="4" />
+      <edge source="nsw" target="grow" id="670" weight="4" />
+      <edge source="nsw" target="petrol" id="671" weight="4" />
+      <edge source="nsw" target="requests" id="672" weight="4" />
+      <edge source="nsw" target="soar" id="673" weight="4" />
+      <edge source="nsw" target="strike" id="674" weight="4" />
+      <edge source="nsw" target="updates" id="675" weight="4" />
+      <edge source="nsw" target="warns" id="676" weight="4" />
+      <edge source="amid" target="guardian" id="677" weight="11" />
+      <edge source="amid" target="new" id="678" weight="33" />
+      <edge source="amid" target="war" id="679" weight="34" />
+      <edge source="amid" target="zealand" id="680" weight="33" />
+      <edge source="amid" target="fares" id="681" weight="36" />
+      <edge source="amid" target="halves" id="682" weight="34" />
+      <edge source="amid" target="petrol" id="683" weight="35" />
+      <edge source="amid" target="public" id="684" weight="34" />
+      <edge source="amid" target="rt" id="685" weight="4" />
+      <edge source="amid" target="soar" id="686" weight="34" />
+      <edge source="amid" target="transport" id="687" weight="33" />
+      <edge source="guardian" target="fares" id="688" weight="11" />
+      <edge source="guardian" target="halves" id="689" weight="11" />
+      <edge source="guardian" target="new" id="690" weight="17" />
+      <edge source="guardian" target="petrol" id="691" weight="13" />
+      <edge source="guardian" target="public" id="692" weight="11" />
+      <edge source="guardian" target="soar" id="693" weight="11" />
+      <edge source="guardian" target="transport" id="694" weight="11" />
+      <edge source="guardian" target="war" id="695" weight="13" />
+      <edge source="guardian" target="zealand" id="696" weight="17" />
+      <edge source="new" target="ardern" id="697" weight="4" />
+      <edge source="new" target="common" id="698" weight="4" />
+      <edge source="new" target="does" id="699" weight="4" />
+      <edge source="new" target="fares" id="700" weight="33" />
+      <edge source="new" target="good" id="701" weight="4" />
+      <edge source="new" target="government" id="702" weight="4" />
+      <edge source="new" target="halves" id="703" weight="33" />
+      <edge source="new" target="jacinda" id="704" weight="4" />
+      <edge source="new" target="leader" id="705" weight="4" />
+      <edge source="new" target="magnificent" id="706" weight="4" />
+      <edge source="new" target="petrol" id="707" weight="7" />
+      <edge source="new" target="public" id="708" weight="7" />
+      <edge source="new" target="soar" id="709" weight="6" />
+      <edge source="new" target="transport" id="710" weight="6" />
+      <edge source="new" target="war" id="711" weight="8" />
+      <edge source="new" target="zealand" id="712" weight="6" />
+      <edge source="new" target="rt" id="713" weight="4" />
+      <edge source="war" target="amp" id="714" weight="7" />
+      <edge source="war" target="asked" id="715" weight="6" />
+      <edge source="war" target="australian" id="716" weight="6" />
+      <edge source="war" target="birmingham" id="717" weight="6" />
+      <edge source="war" target="control" id="718" weight="4" />
+      <edge source="war" target="cost" id="719" weight="6" />
+      <edge source="war" target="country" id="720" weight="4" />
+      <edge source="war" target="despite" id="721" weight="4" />
+      <edge source="war" target="diesel" id="722" weight="6" />
+      <edge source="war" target="fall" id="723" weight="4" />
+      <edge source="war" target="fares" id="724" weight="36" />
+      <edge source="war" target="halves" id="725" weight="34" />
+      <edge source="war" target="hi" id="726" weight="4" />
+      <edge source="war" target="hikes" id="727" weight="6" />
+      <edge source="war" target="know" id="728" weight="6" />
+      <edge source="war" target="people" id="729" weight="4" />
+      <edge source="war" target="petrol" id="730" weight="18" />
+      <edge source="war" target="price" id="731" weight="12" />
+      <edge source="war" target="public" id="732" weight="34" />
+      <edge source="war" target="rt" id="733" weight="4" />
+      <edge source="war" target="say" id="734" weight="6" />
+      <edge source="war" target="saying" id="735" weight="8" />
+      <edge source="war" target="simon" id="736" weight="6" />
+      <edge source="war" target="soar" id="737" weight="34" />
+      <edge source="war" target="sure" id="738" weight="6" />
+      <edge source="war" target="transport" id="739" weight="33" />
+      <edge source="war" target="comes" id="740" weight="6" />
+      <edge source="war" target="crap" id="741" weight="6" />
+      <edge source="war" target="cut" id="742" weight="6" />
+      <edge source="war" target="don" id="743" weight="6" />
+      <edge source="war" target="east" id="744" weight="6" />
+      <edge source="war" target="excise" id="745" weight="6" />
+      <edge source="war" target="fuel" id="746" weight="10" />
+      <edge source="war" target="govt" id="747" weight="5" />
+      <edge source="war" target="hard" id="748" weight="4" />
+      <edge source="war" target="high" id="749" weight="4" />
+      <edge source="war" target="increase" id="750" weight="4" />
+      <edge source="war" target="inflation" id="751" weight="4" />
+      <edge source="war" target="maintain" id="752" weight="4" />
+      <edge source="war" target="middle" id="753" weight="6" />
+      <edge source="war" target="oil" id="754" weight="9" />
+      <edge source="war" target="record" id="755" weight="6" />
+      <edge source="war" target="scope" id="756" weight="4" />
+      <edge source="war" target="trying" id="757" weight="4" />
+      <edge source="war" target="understand" id="758" weight="6" />
+      <edge source="war" target="zealand" id="759" weight="33" />
+      <edge source="zealand" target="ardern" id="760" weight="4" />
+      <edge source="zealand" target="common" id="761" weight="4" />
+      <edge source="zealand" target="does" id="762" weight="4" />
+      <edge source="zealand" target="fares" id="763" weight="33" />
+      <edge source="zealand" target="good" id="764" weight="4" />
+      <edge source="zealand" target="government" id="765" weight="4" />
+      <edge source="zealand" target="halves" id="766" weight="33" />
+      <edge source="zealand" target="jacinda" id="767" weight="4" />
+      <edge source="zealand" target="leader" id="768" weight="4" />
+      <edge source="zealand" target="magnificent" id="769" weight="4" />
+      <edge source="zealand" target="petrol" id="770" weight="33" />
+      <edge source="zealand" target="public" id="771" weight="33" />
+      <edge source="zealand" target="rt" id="772" weight="4" />
+      <edge source="zealand" target="soar" id="773" weight="33" />
+      <edge source="zealand" target="transport" id="774" weight="33" />
+      <edge source="amp" target="begging" id="775" weight="4" />
+      <edge source="amp" target="cheap" id="776" weight="4" />
+      <edge source="amp" target="destruction" id="777" weight="4" />
+      <edge source="amp" target="goes" id="778" weight="4" />
+      <edge source="amp" target="govt" id="779" weight="4" />
+      <edge source="amp" target="hard" id="780" weight="4" />
+      <edge source="amp" target="hate" id="781" weight="4" />
+      <edge source="amp" target="indovspak" id="782" weight="4" />
+      <edge source="amp" target="invaded" id="783" weight="4" />
+      <edge source="amp" target="iraq" id="784" weight="4" />
+      <edge source="amp" target="libya" id="785" weight="4" />
+      <edge source="amp" target="looking" id="786" weight="4" />
+      <edge source="amp" target="maintain" id="787" weight="4" />
+      <edge source="amp" target="major" id="788" weight="4" />
+      <edge source="amp" target="mass" id="789" weight="4" />
+      <edge source="amp" target="peaceful" id="790" weight="4" />
+      <edge source="amp" target="petrol" id="791" weight="15" />
+      <edge source="amp" target="reduce" id="792" weight="4" />
+      <edge source="amp" target="round" id="793" weight="4" />
+      <edge source="amp" target="save" id="794" weight="4" />
+      <edge source="amp" target="syria" id="795" weight="4" />
+      <edge source="amp" target="trying" id="796" weight="4" />
+      <edge source="amp" target="weapons" id="797" weight="4" />
+      <edge source="amp" target="west" id="798" weight="4" />
+      <edge source="amp" target="attacking" id="799" weight="4" />
+      <edge source="amp" target="driving" id="800" weight="4" />
+      <edge source="amp" target="gallon" id="801" weight="4" />
+      <edge source="amp" target="hi" id="802" weight="4" />
+      <edge source="amp" target="india" id="803" weight="4" />
+      <edge source="amp" target="people" id="804" weight="6" />
+      <edge source="amp" target="price" id="805" weight="4" />
+      <edge source="amp" target="sanctions" id="806" weight="4" />
+      <edge source="amp" target="say" id="807" weight="4" />
+      <edge source="amp" target="stop" id="808" weight="4" />
+      <edge source="amp" target="uk" id="809" weight="4" />
+      <edge source="amp" target="wheat" id="810" weight="4" />
+      <edge source="hate" target="bigots" id="811" weight="4" />
+      <edge source="hate" target="children" id="812" weight="4" />
+      <edge source="hate" target="countries" id="813" weight="4" />
+      <edge source="hate" target="keys" id="814" weight="4" />
+      <edge source="hate" target="medicine" id="815" weight="4" />
+      <edge source="hate" target="ocean" id="816" weight="4" />
+      <edge source="hate" target="people" id="817" weight="4" />
+      <edge source="hate" target="threw" id="818" weight="4" />
+      <edge source="hate" target="imported" id="819" weight="4" />
+      <edge source="hate" target="nigeria" id="820" weight="4" />
+      <edge source="hate" target="petrol" id="821" weight="10" />
+      <edge source="hate" target="price" id="822" weight="4" />
+      <edge source="hate" target="sells" id="823" weight="4" />
+      <edge source="hate" target="sold" id="824" weight="4" />
+      <edge source="invaded" target="petrol" id="825" weight="6" />
+      <edge source="invaded" target="went" id="826" weight="4" />
+      <edge source="petrol" target="asked" id="827" weight="6" />
+      <edge source="petrol" target="attacking" id="828" weight="8" />
+      <edge source="petrol" target="birmingham" id="829" weight="6" />
+      <edge source="petrol" target="buy" id="830" weight="5" />
+      <edge source="petrol" target="china" id="831" weight="4" />
+      <edge source="petrol" target="conflict" id="832" weight="28" />
+      <edge source="petrol" target="control" id="833" weight="4" />
+      <edge source="petrol" target="cost" id="834" weight="6" />
+      <edge source="petrol" target="country" id="835" weight="4" />
+      <edge source="petrol" target="covid" id="836" weight="6" />
+      <edge source="petrol" target="crude" id="837" weight="4" />
+      <edge source="petrol" target="debt" id="838" weight="11" />
+      <edge source="petrol" target="external" id="839" weight="11" />
+      <edge source="petrol" target="fares" id="840" weight="36" />
+      <edge source="petrol" target="food" id="841" weight="4" />
+      <edge source="petrol" target="fuel" id="842" weight="9" />
+      <edge source="petrol" target="gas" id="843" weight="6" />
+      <edge source="petrol" target="gdp" id="844" weight="11" />
+      <edge source="petrol" target="good" id="845" weight="4" />
+      <edge source="petrol" target="government" id="846" weight="4" />
+      <edge source="petrol" target="govs" id="847" weight="4" />
+      <edge source="petrol" target="halves" id="848" weight="34" />
+      <edge source="petrol" target="high" id="849" weight="4" />
+      <edge source="petrol" target="inflation" id="850" weight="4" />
+      <edge source="petrol" target="invasion" id="851" weight="8" />
+      <edge source="petrol" target="know" id="852" weight="8" />
+      <edge source="petrol" target="labels" id="853" weight="4" />
+      <edge source="petrol" target="litre" id="854" weight="5" />
+      <edge source="petrol" target="live" id="855" weight="5" />
+      <edge source="petrol" target="mps" id="856" weight="20" />
+      <edge source="petrol" target="nigeria" id="857" weight="8" />
+      <edge source="petrol" target="oil" id="858" weight="14" />
+      <edge source="petrol" target="pay" id="859" weight="13" />
+      <edge source="petrol" target="people" id="860" weight="5" />
+      <edge source="petrol" target="australian" id="861" weight="6" />
+      <edge source="petrol" target="badly" id="862" weight="4" />
+      <edge source="petrol" target="biden" id="863" weight="4" />
+      <edge source="petrol" target="bigots" id="864" weight="4" />
+      <edge source="petrol" target="cases" id="865" weight="4" />
+      <edge source="petrol" target="children" id="866" weight="4" />
+      <edge source="petrol" target="citizens" id="867" weight="4" />
+      <edge source="petrol" target="climate" id="868" weight="4" />
+      <edge source="petrol" target="comes" id="869" weight="6" />
+      <edge source="petrol" target="costs" id="870" weight="7" />
+      <edge source="petrol" target="countries" id="871" weight="7" />
+      <edge source="petrol" target="crap" id="872" weight="6" />
+      <edge source="petrol" target="cut" id="873" weight="6" />
+      <edge source="petrol" target="daily" id="874" weight="4" />
+      <edge source="petrol" target="despite" id="875" weight="4" />
+      <edge source="petrol" target="diesel" id="876" weight="28" />
+      <edge source="petrol" target="don" id="877" weight="6" />
+      <edge source="petrol" target="east" id="878" weight="8" />
+      <edge source="petrol" target="economy" id="879" weight="4" />
+      <edge source="petrol" target="europe" id="880" weight="8" />
+      <edge source="petrol" target="excise" id="881" weight="6" />
+      <edge source="petrol" target="explode" id="882" weight="4" />
+      <edge source="petrol" target="fall" id="883" weight="6" />
+      <edge source="petrol" target="going" id="884" weight="8" />
+      <edge source="petrol" target="happened" id="885" weight="9" />
+      <edge source="petrol" target="hikes" id="886" weight="6" />
+      <edge source="petrol" target="imported" id="887" weight="4" />
+      <edge source="petrol" target="increase" id="888" weight="6" />
+      <edge source="petrol" target="juju" id="889" weight="4" />
+      <edge source="petrol" target="keys" id="890" weight="4" />
+      <edge source="petrol" target="man" id="891" weight="4" />
+      <edge source="petrol" target="medicine" id="892" weight="4" />
+      <edge source="petrol" target="middle" id="893" weight="8" />
+      <edge source="petrol" target="ocean" id="894" weight="4" />
+      <edge source="petrol" target="possibility" id="895" weight="20" />
+      <edge source="petrol" target="price" id="896" weight="9" />
+      <edge source="petrol" target="putin" id="897" weight="7" />
+      <edge source="petrol" target="record" id="898" weight="5" />
+      <edge source="petrol" target="russian" id="899" weight="5" />
+      <edge source="petrol" target="save" id="900" weight="4" />
+      <edge source="petrol" target="say" id="901" weight="6" />
+      <edge source="petrol" target="simon" id="902" weight="6" />
+      <edge source="petrol" target="soar" id="903" weight="37" />
+      <edge source="petrol" target="sold" id="904" weight="4" />
+      <edge source="petrol" target="sure" id="905" weight="6" />
+      <edge source="petrol" target="surge" id="906" weight="13" />
+      <edge source="petrol" target="talking" id="907" weight="4" />
+      <edge source="petrol" target="threw" id="908" weight="4" />
+      <edge source="petrol" target="understand" id="909" weight="6" />
+      <edge source="petrol" target="went" id="910" weight="5" />
+      <edge source="petrol" target="wheat" id="911" weight="5" />
+      <edge source="petrol" target="world" id="912" weight="4" />
+      <edge source="petrol" target="president" id="913" weight="6" />
+      <edge source="petrol" target="public" id="914" weight="34" />
+      <edge source="petrol" target="puppet" id="915" weight="4" />
+      <edge source="petrol" target="push" id="916" weight="4" />
+      <edge source="petrol" target="reduce" id="917" weight="6" />
+      <edge source="petrol" target="roubles" id="918" weight="9" />
+      <edge source="petrol" target="rt" id="919" weight="4" />
+      <edge source="petrol" target="sanctions" id="920" weight="8" />
+      <edge source="petrol" target="saying" id="921" weight="10" />
+      <edge source="petrol" target="seen" id="922" weight="4" />
+      <edge source="petrol" target="sells" id="923" weight="4" />
+      <edge source="petrol" target="shrink" id="924" weight="11" />
+      <edge source="petrol" target="state" id="925" weight="4" />
+      <edge source="petrol" target="support" id="926" weight="5" />
+      <edge source="petrol" target="threatens" id="927" weight="11" />
+      <edge source="petrol" target="time" id="928" weight="4" />
+      <edge source="petrol" target="transport" id="929" weight="33" />
+      <edge source="petrol" target="uk" id="930" weight="12" />
+      <edge source="petrol" target="ukraines" id="931" weight="11" />
+      <edge source="petrol" target="warned" id="932" weight="21" />
+      <edge source="reduce" target="impose" id="933" weight="4" />
+      <edge source="reduce" target="km" id="934" weight="4" />
+      <edge source="reduce" target="limit" id="935" weight="4" />
+      <edge source="reduce" target="member" id="936" weight="4" />
+      <edge source="reduce" target="accidents" id="937" weight="4" />
+      <edge source="reduce" target="boycott" id="938" weight="4" />
+      <edge source="reduce" target="climate" id="939" weight="4" />
+      <edge source="reduce" target="consumer" id="940" weight="4" />
+      <edge source="reduce" target="consumption" id="941" weight="4" />
+      <edge source="reduce" target="costs" id="942" weight="4" />
+      <edge source="reduce" target="death" id="943" weight="4" />
+      <edge source="reduce" target="easier" id="944" weight="4" />
+      <edge source="reduce" target="freedom" id="945" weight="4" />
+      <edge source="reduce" target="peace" id="946" weight="4" />
+      <edge source="reduce" target="road" id="947" weight="4" />
+      <edge source="reduce" target="russian" id="948" weight="5" />
+      <edge source="reduce" target="save" id="949" weight="8" />
+      <edge source="reduce" target="social" id="950" weight="4" />
+      <edge source="reduce" target="support" id="951" weight="4" />
+      <edge source="reduce" target="toll" id="952" weight="4" />
+      <edge source="reduce" target="shall" id="953" weight="4" />
+      <edge source="reduce" target="speed" id="954" weight="4" />
+      <edge source="reduce" target="states" id="955" weight="4" />
+      <edge source="save" target="consumption" id="956" weight="4" />
+      <edge source="save" target="impose" id="957" weight="4" />
+      <edge source="save" target="km" id="958" weight="4" />
+      <edge source="save" target="limit" id="959" weight="4" />
+      <edge source="save" target="member" id="960" weight="4" />
+      <edge source="save" target="russian" id="961" weight="4" />
+      <edge source="save" target="accidents" id="962" weight="4" />
+      <edge source="save" target="climate" id="963" weight="4" />
+      <edge source="save" target="death" id="964" weight="4" />
+      <edge source="save" target="road" id="965" weight="4" />
+      <edge source="save" target="toll" id="966" weight="4" />
+      <edge source="save" target="shall" id="967" weight="4" />
+      <edge source="save" target="speed" id="968" weight="4" />
+      <edge source="save" target="states" id="969" weight="4" />
+      <edge source="ang" target="nangyayari" id="970" weight="4" />
+      <edge source="ang" target="sa" id="971" weight="8" />
+      <edge source="ang" target="think" id="972" weight="4" />
+      <edge source="ang" target="apektado" id="973" weight="4" />
+      <edge source="ang" target="hindi" id="974" weight="4" />
+      <edge source="ang" target="raw" id="975" weight="4" />
+      <edge source="nangyayari" target="apektado" id="976" weight="4" />
+      <edge source="nangyayari" target="hindi" id="977" weight="4" />
+      <edge source="nangyayari" target="sa" id="978" weight="4" />
+      <edge source="nangyayari" target="think" id="979" weight="4" />
+      <edge source="nangyayari" target="raw" id="980" weight="4" />
+      <edge source="sa" target="apektado" id="981" weight="8" />
+      <edge source="sa" target="hindi" id="982" weight="8" />
+      <edge source="sa" target="raw" id="983" weight="8" />
+      <edge source="sa" target="think" id="984" weight="8" />
+      <edge source="think" target="apektado" id="985" weight="4" />
+      <edge source="think" target="hindi" id="986" weight="4" />
+      <edge source="think" target="raw" id="987" weight="4" />
+      <edge source="angola" target="oil" id="988" weight="4" />
+      <edge source="apektado" target="hindi" id="989" weight="4" />
+      <edge source="apektado" target="raw" id="990" weight="4" />
+      <edge source="ask" target="president" id="991" weight="4" />
+      <edge source="president" target="excellency" id="992" weight="4" />
+      <edge source="president" target="kindly" id="993" weight="4" />
+      <edge source="president" target="conflict" id="994" weight="4" />
+      <edge source="president" target="end" id="995" weight="4" />
+      <edge source="president" target="going" id="996" weight="6" />
+      <edge source="president" target="kill" id="997" weight="4" />
+      <edge source="president" target="particularly" id="998" weight="4" />
+      <edge source="president" target="poor" id="999" weight="4" />
+      <edge source="president" target="poorest" id="1000" weight="4" />
+      <edge source="president" target="price" id="1001" weight="4" />
+      <edge source="president" target="putin" id="1002" weight="4" />
+      <edge source="asked" target="australian" id="1003" weight="6" />
+      <edge source="asked" target="comes" id="1004" weight="6" />
+      <edge source="asked" target="crap" id="1005" weight="6" />
+      <edge source="asked" target="cut" id="1006" weight="6" />
+      <edge source="asked" target="don" id="1007" weight="6" />
+      <edge source="asked" target="east" id="1008" weight="6" />
+      <edge source="asked" target="excise" id="1009" weight="6" />
+      <edge source="asked" target="fuel" id="1010" weight="6" />
+      <edge source="asked" target="hikes" id="1011" weight="6" />
+      <edge source="asked" target="know" id="1012" weight="6" />
+      <edge source="asked" target="middle" id="1013" weight="6" />
+      <edge source="asked" target="oil" id="1014" weight="6" />
+      <edge source="asked" target="price" id="1015" weight="6" />
+      <edge source="asked" target="simon" id="1016" weight="6" />
+      <edge source="asked" target="sure" id="1017" weight="6" />
+      <edge source="asked" target="understand" id="1018" weight="6" />
+      <edge source="asked" target="birmingham" id="1019" weight="6" />
+      <edge source="asked" target="saying" id="1020" weight="6" />
+      <edge source="australian" target="comes" id="1021" weight="6" />
+      <edge source="australian" target="crap" id="1022" weight="6" />
+      <edge source="australian" target="cut" id="1023" weight="6" />
+      <edge source="australian" target="don" id="1024" weight="6" />
+      <edge source="australian" target="east" id="1025" weight="6" />
+      <edge source="australian" target="excise" id="1026" weight="6" />
+      <edge source="australian" target="fuel" id="1027" weight="6" />
+      <edge source="australian" target="know" id="1028" weight="6" />
+      <edge source="australian" target="middle" id="1029" weight="6" />
+      <edge source="australian" target="oil" id="1030" weight="6" />
+      <edge source="australian" target="simon" id="1031" weight="6" />
+      <edge source="australian" target="understand" id="1032" weight="6" />
+      <edge source="australian" target="birmingham" id="1033" weight="6" />
+      <edge source="australian" target="hikes" id="1034" weight="6" />
+      <edge source="australian" target="price" id="1035" weight="6" />
+      <edge source="australian" target="saying" id="1036" weight="6" />
+      <edge source="australian" target="sure" id="1037" weight="6" />
+      <edge source="comes" target="birmingham" id="1038" weight="6" />
+      <edge source="comes" target="crap" id="1039" weight="6" />
+      <edge source="comes" target="cut" id="1040" weight="6" />
+      <edge source="comes" target="east" id="1041" weight="6" />
+      <edge source="comes" target="excise" id="1042" weight="6" />
+      <edge source="comes" target="fuel" id="1043" weight="6" />
+      <edge source="comes" target="middle" id="1044" weight="6" />
+      <edge source="comes" target="simon" id="1045" weight="6" />
+      <edge source="comes" target="don" id="1046" weight="6" />
+      <edge source="comes" target="hikes" id="1047" weight="6" />
+      <edge source="comes" target="know" id="1048" weight="6" />
+      <edge source="comes" target="oil" id="1049" weight="6" />
+      <edge source="comes" target="price" id="1050" weight="6" />
+      <edge source="comes" target="saying" id="1051" weight="6" />
+      <edge source="comes" target="sure" id="1052" weight="6" />
+      <edge source="comes" target="understand" id="1053" weight="6" />
+      <edge source="crap" target="birmingham" id="1054" weight="6" />
+      <edge source="crap" target="excise" id="1055" weight="6" />
+      <edge source="crap" target="fuel" id="1056" weight="6" />
+      <edge source="crap" target="simon" id="1057" weight="6" />
+      <edge source="crap" target="cut" id="1058" weight="6" />
+      <edge source="crap" target="don" id="1059" weight="6" />
+      <edge source="crap" target="east" id="1060" weight="6" />
+      <edge source="crap" target="hikes" id="1061" weight="6" />
+      <edge source="crap" target="know" id="1062" weight="6" />
+      <edge source="crap" target="middle" id="1063" weight="6" />
+      <edge source="crap" target="oil" id="1064" weight="6" />
+      <edge source="crap" target="price" id="1065" weight="6" />
+      <edge source="crap" target="saying" id="1066" weight="6" />
+      <edge source="crap" target="sure" id="1067" weight="6" />
+      <edge source="crap" target="understand" id="1068" weight="6" />
+      <edge source="cut" target="birmingham" id="1069" weight="6" />
+      <edge source="cut" target="excise" id="1070" weight="6" />
+      <edge source="cut" target="fuel" id="1071" weight="6" />
+      <edge source="cut" target="simon" id="1072" weight="6" />
+      <edge source="cut" target="don" id="1073" weight="6" />
+      <edge source="cut" target="east" id="1074" weight="6" />
+      <edge source="cut" target="hikes" id="1075" weight="6" />
+      <edge source="cut" target="know" id="1076" weight="6" />
+      <edge source="cut" target="middle" id="1077" weight="6" />
+      <edge source="cut" target="oil" id="1078" weight="6" />
+      <edge source="cut" target="price" id="1079" weight="6" />
+      <edge source="cut" target="saying" id="1080" weight="6" />
+      <edge source="cut" target="sure" id="1081" weight="6" />
+      <edge source="cut" target="understand" id="1082" weight="6" />
+      <edge source="don" target="birmingham" id="1083" weight="6" />
+      <edge source="don" target="east" id="1084" weight="6" />
+      <edge source="don" target="excise" id="1085" weight="6" />
+      <edge source="don" target="fuel" id="1086" weight="6" />
+      <edge source="don" target="middle" id="1087" weight="6" />
+      <edge source="don" target="oil" id="1088" weight="6" />
+      <edge source="don" target="simon" id="1089" weight="6" />
+      <edge source="don" target="hikes" id="1090" weight="6" />
+      <edge source="don" target="know" id="1091" weight="6" />
+      <edge source="don" target="price" id="1092" weight="6" />
+      <edge source="don" target="saying" id="1093" weight="6" />
+      <edge source="don" target="sure" id="1094" weight="6" />
+      <edge source="don" target="understand" id="1095" weight="6" />
+      <edge source="east" target="birmingham" id="1096" weight="6" />
+      <edge source="east" target="excise" id="1097" weight="6" />
+      <edge source="east" target="fuel" id="1098" weight="6" />
+      <edge source="east" target="simon" id="1099" weight="6" />
+      <edge source="east" target="hikes" id="1100" weight="6" />
+      <edge source="east" target="know" id="1101" weight="6" />
+      <edge source="east" target="middle" id="1102" weight="8" />
+      <edge source="east" target="oil" id="1103" weight="8" />
+      <edge source="east" target="price" id="1104" weight="6" />
+      <edge source="east" target="saying" id="1105" weight="6" />
+      <edge source="east" target="sure" id="1106" weight="6" />
+      <edge source="east" target="understand" id="1107" weight="6" />
+      <edge source="excise" target="birmingham" id="1108" weight="6" />
+      <edge source="excise" target="simon" id="1109" weight="6" />
+      <edge source="excise" target="fuel" id="1110" weight="6" />
+      <edge source="excise" target="hikes" id="1111" weight="6" />
+      <edge source="excise" target="know" id="1112" weight="6" />
+      <edge source="excise" target="middle" id="1113" weight="6" />
+      <edge source="excise" target="oil" id="1114" weight="6" />
+      <edge source="excise" target="price" id="1115" weight="6" />
+      <edge source="excise" target="saying" id="1116" weight="6" />
+      <edge source="excise" target="sure" id="1117" weight="6" />
+      <edge source="excise" target="understand" id="1118" weight="6" />
+      <edge source="fuel" target="birmingham" id="1119" weight="6" />
+      <edge source="fuel" target="simon" id="1120" weight="6" />
+      <edge source="fuel" target="hikes" id="1121" weight="6" />
+      <edge source="fuel" target="know" id="1122" weight="8" />
+      <edge source="fuel" target="labels" id="1123" weight="4" />
+      <edge source="fuel" target="middle" id="1124" weight="6" />
+      <edge source="fuel" target="oil" id="1125" weight="10" />
+      <edge source="fuel" target="price" id="1126" weight="6" />
+      <edge source="fuel" target="saying" id="1127" weight="8" />
+      <edge source="fuel" target="sure" id="1128" weight="6" />
+      <edge source="fuel" target="understand" id="1129" weight="6" />
+      <edge source="hikes" target="birmingham" id="1130" weight="6" />
+      <edge source="hikes" target="know" id="1131" weight="6" />
+      <edge source="hikes" target="middle" id="1132" weight="6" />
+      <edge source="hikes" target="oil" id="1133" weight="7" />
+      <edge source="hikes" target="simon" id="1134" weight="6" />
+      <edge source="hikes" target="sure" id="1135" weight="6" />
+      <edge source="hikes" target="understand" id="1136" weight="6" />
+      <edge source="hikes" target="price" id="1137" weight="6" />
+      <edge source="hikes" target="saying" id="1138" weight="6" />
+      <edge source="know" target="birmingham" id="1139" weight="6" />
+      <edge source="know" target="labels" id="1140" weight="4" />
+      <edge source="know" target="middle" id="1141" weight="6" />
+      <edge source="know" target="oil" id="1142" weight="6" />
+      <edge source="know" target="simon" id="1143" weight="6" />
+      <edge source="know" target="understand" id="1144" weight="6" />
+      <edge source="know" target="price" id="1145" weight="6" />
+      <edge source="know" target="saying" id="1146" weight="6" />
+      <edge source="know" target="sure" id="1147" weight="6" />
+      <edge source="middle" target="birmingham" id="1148" weight="6" />
+      <edge source="middle" target="simon" id="1149" weight="6" />
+      <edge source="middle" target="oil" id="1150" weight="8" />
+      <edge source="middle" target="price" id="1151" weight="6" />
+      <edge source="middle" target="saying" id="1152" weight="6" />
+      <edge source="middle" target="sure" id="1153" weight="6" />
+      <edge source="middle" target="understand" id="1154" weight="6" />
+      <edge source="oil" target="birmingham" id="1155" weight="6" />
+      <edge source="oil" target="brent" id="1156" weight="4" />
+      <edge source="oil" target="buy" id="1157" weight="4" />
+      <edge source="oil" target="crude" id="1158" weight="7" />
+      <edge source="oil" target="absolute" id="1159" weight="4" />
+      <edge source="oil" target="costs" id="1160" weight="4" />
+      <edge source="oil" target="disgrace" id="1161" weight="4" />
+      <edge source="oil" target="dropped" id="1162" weight="4" />
+      <edge source="oil" target="fall" id="1163" weight="4" />
+      <edge source="oil" target="germany" id="1164" weight="4" />
+      <edge source="oil" target="nigeria" id="1165" weight="4" />
+      <edge source="oil" target="price" id="1166" weight="13" />
+      <edge source="oil" target="record" id="1167" weight="4" />
+      <edge source="oil" target="sidelined" id="1168" weight="4" />
+      <edge source="oil" target="simon" id="1169" weight="6" />
+      <edge source="oil" target="transport" id="1170" weight="4" />
+      <edge source="oil" target="waiting" id="1171" weight="4" />
+      <edge source="oil" target="opec" id="1172" weight="4" />
+      <edge source="oil" target="saying" id="1173" weight="6" />
+      <edge source="oil" target="support" id="1174" weight="4" />
+      <edge source="oil" target="sure" id="1175" weight="6" />
+      <edge source="oil" target="understand" id="1176" weight="6" />
+      <edge source="price" target="birmingham" id="1177" weight="6" />
+      <edge source="price" target="conflict" id="1178" weight="6" />
+      <edge source="price" target="crude" id="1179" weight="4" />
+      <edge source="price" target="diesel" id="1180" weight="5" />
+      <edge source="price" target="gas" id="1181" weight="4" />
+      <edge source="price" target="govs" id="1182" weight="4" />
+      <edge source="price" target="badly" id="1183" weight="4" />
+      <edge source="price" target="coming" id="1184" weight="4" />
+      <edge source="price" target="complaining" id="1185" weight="4" />
+      <edge source="price" target="cost" id="1186" weight="4" />
+      <edge source="price" target="determined" id="1187" weight="4" />
+      <edge source="price" target="doesnt" id="1188" weight="4" />
+      <edge source="price" target="economy" id="1189" weight="4" />
+      <edge source="price" target="europe" id="1190" weight="8" />
+      <edge source="price" target="explode" id="1191" weight="4" />
+      <edge source="price" target="god" id="1192" weight="4" />
+      <edge source="price" target="plus" id="1193" weight="5" />
+      <edge source="price" target="simon" id="1194" weight="6" />
+      <edge source="price" target="subsidy" id="1195" weight="4" />
+      <edge source="price" target="sure" id="1196" weight="6" />
+      <edge source="price" target="things" id="1197" weight="4" />
+      <edge source="price" target="understand" id="1198" weight="6" />
+      <edge source="price" target="unnecessary" id="1199" weight="4" />
+      <edge source="price" target="wont" id="1200" weight="4" />
+      <edge source="price" target="puppet" id="1201" weight="4" />
+      <edge source="price" target="push" id="1202" weight="4" />
+      <edge source="price" target="reasons" id="1203" weight="4" />
+      <edge source="price" target="saying" id="1204" weight="6" />
+      <edge source="simon" target="birmingham" id="1205" weight="6" />
+      <edge source="simon" target="saying" id="1206" weight="6" />
+      <edge source="simon" target="sure" id="1207" weight="6" />
+      <edge source="simon" target="understand" id="1208" weight="6" />
+      <edge source="sure" target="birmingham" id="1209" weight="6" />
+      <edge source="sure" target="saying" id="1210" weight="6" />
+      <edge source="sure" target="understand" id="1211" weight="6" />
+      <edge source="understand" target="birmingham" id="1212" weight="6" />
+      <edge source="understand" target="saying" id="1213" weight="6" />
+      <edge source="attacking" target="china" id="1214" weight="4" />
+      <edge source="attacking" target="facing" id="1215" weight="4" />
+      <edge source="attacking" target="germany" id="1216" weight="4" />
+      <edge source="attacking" target="increased" id="1217" weight="6" />
+      <edge source="attacking" target="inflation" id="1218" weight="4" />
+      <edge source="attacking" target="outbreak" id="1219" weight="4" />
+      <edge source="attacking" target="past" id="1220" weight="4" />
+      <edge source="attacking" target="rupees" id="1221" weight="6" />
+      <edge source="attacking" target="shot" id="1222" weight="6" />
+      <edge source="attacking" target="single" id="1223" weight="6" />
+      <edge source="attacking" target="srilanka" id="1224" weight="6" />
+      <edge source="attacking" target="worst" id="1225" weight="4" />
+      <edge source="attacking" target="years" id="1226" weight="4" />
+      <edge source="attacking" target="covid" id="1227" weight="6" />
+      <edge source="china" target="covid" id="1228" weight="4" />
+      <edge source="china" target="invasion" id="1229" weight="4" />
+      <edge source="germany" target="europe" id="1230" weight="4" />
+      <edge source="inflation" target="say" id="1231" weight="4" />
+      <edge source="bad" target="say" id="1232" weight="4" />
+      <edge source="say" target="bombing" id="1233" weight="4" />
+      <edge source="say" target="dirty" id="1234" weight="4" />
+      <edge source="say" target="explosion" id="1235" weight="4" />
+      <edge source="say" target="feeling" id="1236" weight="4" />
+      <edge source="say" target="labels" id="1237" weight="4" />
+      <edge source="say" target="light" id="1238" weight="4" />
+      <edge source="say" target="nigeria" id="1239" weight="4" />
+      <edge source="say" target="country" id="1240" weight="4" />
+      <edge source="say" target="hot" id="1241" weight="4" />
+      <edge source="say" target="reason" id="1242" weight="4" />
+      <edge source="say" target="water" id="1243" weight="4" />
+      <edge source="badly" target="conflict" id="1244" weight="4" />
+      <edge source="badly" target="economy" id="1245" weight="4" />
+      <edge source="badly" target="europe" id="1246" weight="8" />
+      <edge source="badly" target="explode" id="1247" weight="4" />
+      <edge source="badly" target="gas" id="1248" weight="4" />
+      <edge source="badly" target="govs" id="1249" weight="4" />
+      <edge source="badly" target="puppet" id="1250" weight="4" />
+      <edge source="badly" target="push" id="1251" weight="4" />
+      <edge source="balle" target="la" id="1252" weight="15" />
+      <edge source="balle" target="russie" id="1253" weight="6" />
+      <edge source="la" target="chine" id="1254" weight="9" />
+      <edge source="la" target="conomique" id="1255" weight="6" />
+      <edge source="la" target="coupe" id="1256" weight="18" />
+      <edge source="la" target="dclar" id="1257" weight="18" />
+      <edge source="la" target="donc" id="1258" weight="6" />
+      <edge source="la" target="elle" id="1259" weight="18" />
+      <edge source="la" target="en" id="1260" weight="18" />
+      <edge source="la" target="est" id="1261" weight="18" />
+      <edge source="la" target="gaz" id="1262" weight="12" />
+      <edge source="la" target="guerre" id="1263" weight="18" />
+      <edge source="la" target="jours" id="1264" weight="18" />
+      <edge source="la" target="allez" id="1265" weight="12" />
+      <edge source="la" target="avec" id="1266" weight="18" />
+      <edge source="la" target="coup" id="1267" weight="12" />
+      <edge source="la" target="coupons" id="1268" weight="9" />
+      <edge source="la" target="dirigeants" id="1269" weight="21" />
+      <edge source="la" target="encore" id="1270" weight="9" />
+      <edge source="la" target="et" id="1271" weight="9" />
+      <edge source="la" target="faute" id="1272" weight="21" />
+      <edge source="la" target="isole" id="1273" weight="9" />
+      <edge source="la" target="le" id="1274" weight="21" />
+      <edge source="la" target="les" id="1275" weight="12" />
+      <edge source="la" target="ne" id="1276" weight="12" />
+      <edge source="la" target="nerf" id="1277" weight="9" />
+      <edge source="la" target="pas" id="1278" weight="21" />
+      <edge source="la" target="plus" id="1279" weight="9" />
+      <edge source="la" target="ptrole" id="1280" weight="9" />
+      <edge source="la" target="putin" id="1281" weight="18" />
+      <edge source="la" target="quand" id="1282" weight="18" />
+      <edge source="la" target="renvoies" id="1283" weight="9" />
+      <edge source="la" target="russie" id="1284" weight="33" />
+      <edge source="la" target="soyez" id="1285" weight="12" />
+      <edge source="la" target="tenez" id="1286" weight="12" />
+      <edge source="la" target="terminera" id="1287" weight="18" />
+      <edge source="la" target="ukrainiens" id="1288" weight="12" />
+      <edge source="la" target="votre" id="1289" weight="21" />
+      <edge source="la" target="seulement" id="1290" weight="18" />
+      <edge source="la" target="si" id="1291" weight="21" />
+      <edge source="la" target="tombe" id="1292" weight="18" />
+      <edge source="barang" target="harga" id="1293" weight="5" />
+      <edge source="biden" target="record" id="1294" weight="4" />
+      <edge source="birmingham" target="saying" id="1295" weight="6" />
+      <edge source="saying" target="time" id="1296" weight="4" />
+      <edge source="buying" target="russian" id="1297" weight="4" />
+      <edge source="russian" target="especially" id="1298" weight="4" />
+      <edge source="russian" target="indians" id="1299" weight="4" />
+      <edge source="russian" target="putting" id="1300" weight="4" />
+      <edge source="russian" target="attacks" id="1301" weight="4" />
+      <edge source="russian" target="sanctions" id="1302" weight="4" />
+      <edge source="covid" target="cases" id="1303" weight="4" />
+      <edge source="invasion" target="sanctions" id="1304" weight="4" />
+      <edge source="chine" target="est" id="1305" weight="6" />
+      <edge source="chine" target="le" id="1306" weight="6" />
+      <edge source="chine" target="russie" id="1307" weight="6" />
+      <edge source="est" target="donc" id="1308" weight="6" />
+      <edge source="est" target="allez" id="1309" weight="6" />
+      <edge source="est" target="coup" id="1310" weight="6" />
+      <edge source="est" target="et" id="1311" weight="4" />
+      <edge source="est" target="gaz" id="1312" weight="4" />
+      <edge source="est" target="guerre" id="1313" weight="6" />
+      <edge source="est" target="le" id="1314" weight="12" />
+      <edge source="est" target="les" id="1315" weight="6" />
+      <edge source="est" target="nerf" id="1316" weight="6" />
+      <edge source="est" target="ptrole" id="1317" weight="4" />
+      <edge source="est" target="tenez" id="1318" weight="6" />
+      <edge source="est" target="ukrainiens" id="1319" weight="6" />
+      <edge source="est" target="pas" id="1320" weight="6" />
+      <edge source="est" target="russie" id="1321" weight="12" />
+      <edge source="le" target="coupons" id="1322" weight="6" />
+      <edge source="le" target="donc" id="1323" weight="6" />
+      <edge source="le" target="encore" id="1324" weight="6" />
+      <edge source="le" target="et" id="1325" weight="6" />
+      <edge source="le" target="gaz" id="1326" weight="6" />
+      <edge source="le" target="isole" id="1327" weight="6" />
+      <edge source="le" target="coup" id="1328" weight="6" />
+      <edge source="le" target="guerre" id="1329" weight="6" />
+      <edge source="le" target="quand" id="1330" weight="6" />
+      <edge source="le" target="russie" id="1331" weight="12" />
+      <edge source="le" target="pas" id="1332" weight="6" />
+      <edge source="le" target="plus" id="1333" weight="6" />
+      <edge source="le" target="ptrole" id="1334" weight="6" />
+      <edge source="russie" target="conomique" id="1335" weight="9" />
+      <edge source="russie" target="coupe" id="1336" weight="9" />
+      <edge source="russie" target="dclar" id="1337" weight="9" />
+      <edge source="russie" target="elle" id="1338" weight="9" />
+      <edge source="russie" target="en" id="1339" weight="9" />
+      <edge source="russie" target="gaz" id="1340" weight="6" />
+      <edge source="russie" target="guerre" id="1341" weight="6" />
+      <edge source="russie" target="jours" id="1342" weight="9" />
+      <edge source="russie" target="ne" id="1343" weight="6" />
+      <edge source="russie" target="pas" id="1344" weight="12" />
+      <edge source="russie" target="quand" id="1345" weight="9" />
+      <edge source="russie" target="allez" id="1346" weight="6" />
+      <edge source="russie" target="avec" id="1347" weight="9" />
+      <edge source="russie" target="coup" id="1348" weight="6" />
+      <edge source="russie" target="coupons" id="1349" weight="6" />
+      <edge source="russie" target="dirigeants" id="1350" weight="9" />
+      <edge source="russie" target="encore" id="1351" weight="6" />
+      <edge source="russie" target="et" id="1352" weight="6" />
+      <edge source="russie" target="faute" id="1353" weight="9" />
+      <edge source="russie" target="isole" id="1354" weight="6" />
+      <edge source="russie" target="les" id="1355" weight="6" />
+      <edge source="russie" target="nerf" id="1356" weight="6" />
+      <edge source="russie" target="plus" id="1357" weight="6" />
+      <edge source="russie" target="ptrole" id="1358" weight="6" />
+      <edge source="russie" target="putin" id="1359" weight="9" />
+      <edge source="russie" target="renvoies" id="1360" weight="6" />
+      <edge source="russie" target="tenez" id="1361" weight="6" />
+      <edge source="russie" target="terminera" id="1362" weight="9" />
+      <edge source="russie" target="ukrainiens" id="1363" weight="6" />
+      <edge source="russie" target="votre" id="1364" weight="9" />
+      <edge source="russie" target="seulement" id="1365" weight="9" />
+      <edge source="russie" target="si" id="1366" weight="9" />
+      <edge source="russie" target="soyez" id="1367" weight="6" />
+      <edge source="russie" target="tombe" id="1368" weight="9" />
+      <edge source="conflict" target="daily" id="1369" weight="4" />
+      <edge source="conflict" target="diesel" id="1370" weight="20" />
+      <edge source="conflict" target="economy" id="1371" weight="4" />
+      <edge source="conflict" target="europe" id="1372" weight="8" />
+      <edge source="conflict" target="explode" id="1373" weight="4" />
+      <edge source="conflict" target="gas" id="1374" weight="4" />
+      <edge source="conflict" target="litre" id="1375" weight="20" />
+      <edge source="conflict" target="mps" id="1376" weight="20" />
+      <edge source="conflict" target="possibility" id="1377" weight="20" />
+      <edge source="conflict" target="warned" id="1378" weight="20" />
+      <edge source="conflict" target="govs" id="1379" weight="4" />
+      <edge source="conflict" target="puppet" id="1380" weight="4" />
+      <edge source="conflict" target="push" id="1381" weight="4" />
+      <edge source="daily" target="diesel" id="1382" weight="4" />
+      <edge source="daily" target="litre" id="1383" weight="4" />
+      <edge source="daily" target="mps" id="1384" weight="4" />
+      <edge source="daily" target="possibility" id="1385" weight="4" />
+      <edge source="daily" target="warned" id="1386" weight="4" />
+      <edge source="diesel" target="possibility" id="1387" weight="20" />
+      <edge source="diesel" target="litre" id="1388" weight="20" />
+      <edge source="diesel" target="mps" id="1389" weight="20" />
+      <edge source="diesel" target="warned" id="1390" weight="20" />
+      <edge source="economy" target="europe" id="1391" weight="8" />
+      <edge source="economy" target="explode" id="1392" weight="4" />
+      <edge source="economy" target="gas" id="1393" weight="4" />
+      <edge source="economy" target="govs" id="1394" weight="4" />
+      <edge source="economy" target="puppet" id="1395" weight="4" />
+      <edge source="economy" target="push" id="1396" weight="4" />
+      <edge source="europe" target="explode" id="1397" weight="8" />
+      <edge source="europe" target="gas" id="1398" weight="8" />
+      <edge source="europe" target="govs" id="1399" weight="8" />
+      <edge source="europe" target="puppet" id="1400" weight="8" />
+      <edge source="europe" target="push" id="1401" weight="8" />
+      <edge source="explode" target="gas" id="1402" weight="4" />
+      <edge source="explode" target="govs" id="1403" weight="4" />
+      <edge source="explode" target="puppet" id="1404" weight="4" />
+      <edge source="explode" target="push" id="1405" weight="4" />
+      <edge source="gas" target="govs" id="1406" weight="4" />
+      <edge source="gas" target="labels" id="1407" weight="4" />
+      <edge source="gas" target="puppet" id="1408" weight="4" />
+      <edge source="gas" target="push" id="1409" weight="4" />
+      <edge source="litre" target="possibility" id="1410" weight="20" />
+      <edge source="litre" target="mps" id="1411" weight="20" />
+      <edge source="litre" target="warned" id="1412" weight="20" />
+      <edge source="mps" target="possibility" id="1413" weight="20" />
+      <edge source="mps" target="warned" id="1414" weight="20" />
+      <edge source="possibility" target="warned" id="1415" weight="20" />
+      <edge source="conomique" target="quand" id="1416" weight="6" />
+      <edge source="quand" target="coupe" id="1417" weight="6" />
+      <edge source="quand" target="dclar" id="1418" weight="6" />
+      <edge source="quand" target="elle" id="1419" weight="6" />
+      <edge source="quand" target="en" id="1420" weight="6" />
+      <edge source="quand" target="gaz" id="1421" weight="6" />
+      <edge source="quand" target="guerre" id="1422" weight="6" />
+      <edge source="quand" target="jours" id="1423" weight="6" />
+      <edge source="quand" target="ne" id="1424" weight="6" />
+      <edge source="quand" target="pas" id="1425" weight="6" />
+      <edge source="quand" target="avec" id="1426" weight="6" />
+      <edge source="quand" target="dirigeants" id="1427" weight="6" />
+      <edge source="quand" target="faute" id="1428" weight="6" />
+      <edge source="quand" target="putin" id="1429" weight="6" />
+      <edge source="quand" target="terminera" id="1430" weight="6" />
+      <edge source="quand" target="votre" id="1431" weight="6" />
+      <edge source="quand" target="seulement" id="1432" weight="6" />
+      <edge source="quand" target="si" id="1433" weight="6" />
+      <edge source="quand" target="soyez" id="1434" weight="6" />
+      <edge source="quand" target="tombe" id="1435" weight="6" />
+      <edge source="control" target="people" id="1436" weight="4" />
+      <edge source="costs" target="support" id="1437" weight="4" />
+      <edge source="country" target="fares" id="1438" weight="4" />
+      <edge source="country" target="transport" id="1439" weight="4" />
+      <edge source="country" target="wheat" id="1440" weight="4" />
+      <edge source="fares" target="cutting" id="1441" weight="4" />
+      <edge source="fares" target="soar" id="1442" weight="36" />
+      <edge source="fares" target="halves" id="1443" weight="34" />
+      <edge source="fares" target="public" id="1444" weight="34" />
+      <edge source="fares" target="rt" id="1445" weight="4" />
+      <edge source="fares" target="transport" id="1446" weight="33" />
+      <edge source="transport" target="halves" id="1447" weight="33" />
+      <edge source="transport" target="public" id="1448" weight="34" />
+      <edge source="transport" target="rt" id="1449" weight="4" />
+      <edge source="transport" target="soar" id="1450" weight="33" />
+      <edge source="crude" target="barrel" id="1451" weight="4" />
+      <edge source="debt" target="gdp" id="1452" weight="11" />
+      <edge source="debt" target="happened" id="1453" weight="9" />
+      <edge source="debt" target="roubles" id="1454" weight="9" />
+      <edge source="debt" target="shrink" id="1455" weight="11" />
+      <edge source="debt" target="surge" id="1456" weight="11" />
+      <edge source="debt" target="uk" id="1457" weight="11" />
+      <edge source="debt" target="ukraines" id="1458" weight="11" />
+      <edge source="debt" target="external" id="1459" weight="11" />
+      <edge source="debt" target="pay" id="1460" weight="11" />
+      <edge source="debt" target="threatens" id="1461" weight="11" />
+      <edge source="gdp" target="external" id="1462" weight="11" />
+      <edge source="gdp" target="happened" id="1463" weight="9" />
+      <edge source="gdp" target="shrink" id="1464" weight="11" />
+      <edge source="gdp" target="surge" id="1465" weight="11" />
+      <edge source="gdp" target="uk" id="1466" weight="11" />
+      <edge source="gdp" target="pay" id="1467" weight="11" />
+      <edge source="gdp" target="roubles" id="1468" weight="9" />
+      <edge source="gdp" target="threatens" id="1469" weight="11" />
+      <edge source="gdp" target="ukraines" id="1470" weight="11" />
+      <edge source="happened" target="external" id="1471" weight="9" />
+      <edge source="happened" target="pay" id="1472" weight="9" />
+      <edge source="happened" target="roubles" id="1473" weight="9" />
+      <edge source="happened" target="shrink" id="1474" weight="9" />
+      <edge source="happened" target="surge" id="1475" weight="9" />
+      <edge source="happened" target="threatens" id="1476" weight="9" />
+      <edge source="happened" target="uk" id="1477" weight="9" />
+      <edge source="happened" target="ukraines" id="1478" weight="9" />
+      <edge source="roubles" target="external" id="1479" weight="9" />
+      <edge source="roubles" target="pay" id="1480" weight="9" />
+      <edge source="roubles" target="shrink" id="1481" weight="9" />
+      <edge source="roubles" target="surge" id="1482" weight="9" />
+      <edge source="roubles" target="uk" id="1483" weight="9" />
+      <edge source="roubles" target="ukraines" id="1484" weight="9" />
+      <edge source="roubles" target="threatens" id="1485" weight="9" />
+      <edge source="shrink" target="external" id="1486" weight="11" />
+      <edge source="shrink" target="pay" id="1487" weight="11" />
+      <edge source="shrink" target="surge" id="1488" weight="11" />
+      <edge source="shrink" target="uk" id="1489" weight="11" />
+      <edge source="shrink" target="threatens" id="1490" weight="11" />
+      <edge source="shrink" target="ukraines" id="1491" weight="11" />
+      <edge source="surge" target="external" id="1492" weight="11" />
+      <edge source="surge" target="pay" id="1493" weight="11" />
+      <edge source="surge" target="threatens" id="1494" weight="11" />
+      <edge source="surge" target="uk" id="1495" weight="12" />
+      <edge source="surge" target="ukraines" id="1496" weight="11" />
+      <edge source="uk" target="external" id="1497" weight="11" />
+      <edge source="uk" target="pay" id="1498" weight="11" />
+      <edge source="uk" target="threatens" id="1499" weight="11" />
+      <edge source="uk" target="ukraines" id="1500" weight="11" />
+      <edge source="ukraines" target="external" id="1501" weight="11" />
+      <edge source="ukraines" target="pay" id="1502" weight="11" />
+      <edge source="ukraines" target="threatens" id="1503" weight="11" />
+      <edge source="despite" target="record" id="1504" weight="4" />
+      <edge source="despite" target="fall" id="1505" weight="4" />
+      <edge source="record" target="fall" id="1506" weight="4" />
+      <edge source="record" target="high" id="1507" weight="4" />
+      <edge source="record" target="putin" id="1508" weight="4" />
+      <edge source="en" target="gaz" id="1509" weight="4" />
+      <edge source="et" target="ptrole" id="1510" weight="4" />
+      <edge source="et" target="gaz" id="1511" weight="4" />
+      <edge source="gaz" target="guerre" id="1512" weight="6" />
+      <edge source="gaz" target="ptrole" id="1513" weight="4" />
+      <edge source="govs" target="puppet" id="1514" weight="4" />
+      <edge source="govs" target="push" id="1515" weight="4" />
+      <edge source="puppet" target="push" id="1516" weight="4" />
+      <edge source="external" target="pay" id="1517" weight="11" />
+      <edge source="external" target="threatens" id="1518" weight="11" />
+      <edge source="soar" target="halves" id="1519" weight="34" />
+      <edge source="soar" target="public" id="1520" weight="34" />
+      <edge source="soar" target="rt" id="1521" weight="4" />
+      <edge source="harga" target="ni" id="1522" weight="4" />
+      <edge source="halves" target="public" id="1523" weight="33" />
+      <edge source="halves" target="rt" id="1524" weight="4" />
+      <edge source="public" target="rt" id="1525" weight="4" />
+      <edge source="people" target="means" id="1526" weight="4" />
+      <edge source="people" target="close" id="1527" weight="4" />
+      <edge source="people" target="feed" id="1528" weight="4" />
+      <edge source="people" target="half" id="1529" weight="4" />
+      <edge source="people" target="million" id="1530" weight="4" />
+      <edge source="people" target="need" id="1531" weight="4" />
+      <edge source="people" target="soldiers" id="1532" weight="4" />
+      <edge source="people" target="still" id="1533" weight="4" />
+      <edge source="people" target="wants" id="1534" weight="4" />
+      <edge source="hindi" target="raw" id="1535" weight="4" />
+      <edge source="labels" target="pumps" id="1536" weight="4" />
+      <edge source="pay" target="threatens" id="1537" weight="11" />
+    </edges>
+  </graph>
+</gexf>
